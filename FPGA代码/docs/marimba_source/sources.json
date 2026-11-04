@@ -1,0 +1,37 @@
+{
+  "source_url": "https://theremin.music.uiowa.edu/Mismarimba.html",
+  "license_url": "https://theremin.music.uiowa.edu/MIS.html",
+  "license": "University of Iowa MIS: may be downloaded and used for any projects, without restrictions",
+  "files": [
+    {
+      "url": "https://theremin.music.uiowa.edu/sound%20files/MIS/Percussion/Marimba/Marimba.cord.mf.C2B2.aif",
+      "file": "Marimba.cord.mf.C2B2.aif",
+      "bytes": 30179972,
+      "sha256": "4ffd9ce468f5b5e5b9e6cee5d50a62bc21f925a037e7a39b6f9f75a5fb532163"
+    },
+    {
+      "url": "https://theremin.music.uiowa.edu/sound%20files/MIS/Percussion/Marimba/Marimba.cord.mf.C3B3.aif",
+      "file": "Marimba.cord.mf.C3B3.aif",
+      "bytes": 28017284,
+      "sha256": "597245cd46e093f50c0f457eeea69cb31e62ed1dc089101b1303ebab20167d5d"
+    },
+    {
+      "url": "https://theremin.music.uiowa.edu/sound%20files/MIS/Percussion/Marimba/Marimba.cord.mf.C4B4.aif",
+      "file": "Marimba.cord.mf.C4B4.aif",
+      "bytes": 23102084,
+      "sha256": "6fe7b2f6e308f4b226f82014b724fd83e6a899f1af5c8cae5b09d250929462dc"
+    },
+    {
+      "url": "https://theremin.music.uiowa.edu/sound%20files/MIS/Percussion/Marimba/Marimba.cord.mf.C5B5.aif",
+      "file": "Marimba.cord.mf.C5B5.aif",
+      "bytes": 17990276,
+      "sha256": "ec3e8e8ca6d92ff8218754179099e527131fccad943d3d4dda7b00a3f0703796"
+    },
+    {
+      "url": "https://theremin.music.uiowa.edu/sound%20files/MIS/Percussion/Marimba/Marimba.cord.mf.C6B6.aif",
+      "file": "Marimba.cord.mf.C6B6.aif",
+      "bytes": 15729284,
+      "sha256": "1c381aa466c53ecfeb71acfcb1cee92806c9314d0bdc3b138eb9dc63ea39e1dd"
+    }
+  ]
+}
