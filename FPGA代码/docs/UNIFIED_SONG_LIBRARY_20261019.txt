@@ -1,0 +1,152 @@
+【历史记录】以下保留2026-10-19版本说明；其中旧引脚安排不能用于competition_9_4。
+9_4新增49键灯链：先断电拔掉旧矩阵第三行L18、第四行L17；L18改作灯链数据，L17空闲。
+当前接线、32复音及验证边界以同目录“使用说明.md”“四音色32复音与灯链.md”为准。
+
+统一曲谱演奏与具名下载曲库升级说明（2026-10-19）
+================================================
+
+一、这次实际完成的内容
+
+PERFORMANCE只保留：
+  FREE PLAY：自由演奏、键盘显示、当前音色。
+  SONG PLAY：统一选曲、来源、GUIDE/AUTO、状态、开始/停止/重播。
+  TONE SELECT：原四种音色。
+  RECORDING：原录制/列表/回放/删除/确认与音色恢复。
+
+没有SAVED SONG独立入口，也没有LAST SAVED条目。
+所有成功提交的下载曲谱都是统一选曲中的普通曲目，显示真实歌名。
+下载区16首，不同ID独立保存；同ID更新已有下载条目，不新增重复条目。
+满16首拒绝新的不同ID（ERR:FULL），不会自动覆盖别的歌。
+预置曲谱、音库和录音不会被覆盖；预置与下载可以保留同名的不同来源版本。
+本次不加入旧C4的绝对节奏游戏，仍保留C7的和弦跟弹/相对节奏分。
+
+二、按键和页面行为
+
+K编号按矩阵扫描位置，不一定是键帽数字：
+  K1：第一行第一颗；K2：第一行第二颗。
+  K3：第一行第三颗；K4：第一行第四颗。
+  K5：第二行第一颗（确认/开始/停止）。
+  K6：第二行第二颗（返回/停止并返回）。
+
+菜单：K3/K4选择，K5进入，K6返回。
+SONG PLAY：
+  K1/K2上一首/下一首，在预置曲目、已下载曲目间循环。
+  K3/K4切换GUIDE/AUTO，不需要退出页面。
+  K5开始；播放中再按K5停止；停止/结束后K5可重播。
+  K6停止并返回；加载中K6取消，不会等数据迟到后突然自动播放。
+  播放和加载期间锁定选曲/模式，先停止再改变。
+
+来源标签：
+  SD CARD：原SONGS.CAT登记的预置PNO。
+  DOWNLOAD / SD：已提交、已校验、可掉电恢复的下载曲目。
+  PHONE / RAM：当前手机已上传但尚未完成持久化的曲谱。
+STATE显示READY/LOADING/PLAYING/EMPTY/ERROR/SAVING，满额时提示SD FULL / RAM。
+缺少下载区时显示NO SLOT / RAM，保存失败显示SD ERROR / RAM；临时RAM曲谱不等于持久化。
+跟弹运行时显示当前目标、原有RHY相对节奏分和错音数，键盘仍高亮目标和实际按键。
+自动运行时显示进度和PLAYING，不再显示无关的跟弹RHY诊断行。
+原SONG SELECT功能已合并进SONG PLAY，不需要找另一个列表入口。
+
+三、必须一次性更新的三个部分
+
+A. FPGA源码/工程
+  打开：D:\gowin_projects\competition\competition_7\competition_7\competition_7.gprj
+  重新综合 -> 布线 -> 检查本次时序 -> 下载。
+  当前impl/pnr/competition_7.fs是旧产物，不能在重新构建前用于新功能。
+  没有代用户运行Gowin/Programmer，没有改引脚、SDC、PLL/DDR参数或音频算法。
+  GPRJ与build.tcl依赖已同步；IDE已打开旧工程时先关闭再重新打开。
+
+B. 新App
+  D:\gowin_projects\app\FPGA_Control_UnifiedSongs.aia
+  导入MIT App Inventor，运行/打包安装；应用名称FPGA Piano Library。
+  旧AIA未覆盖。新应用数据库可能独立，请重新填原曲库地址、重新下载曲谱。
+  Music中的“上传并保存到FPGA SD曲库（不播放）”会真正等写卡及读回确认。
+  选择自动/辅助也会先完成SD保存，再发送PA/PG开始。
+  保存期间禁止用界面停止按钮误取消；断开手机不清除已成功保存的歌曲。
+  原BLE服务、串口115200、ESP32 GPIO17/18和接线不变。
+  已能正常传短谱的ble_song_bridge.py无需为新短命令修改；不要换回最早的本地回显try2.py。
+
+C. GitHub上的JSON
+  D:\gowin_projects\output\unified_song_library_20261019
+  只上传该目录根部的6个JSON：index.json和5首曲谱JSON。
+  保持原仓库、原目录、原App曲库地址，不必新建GitHub目录。
+  这次必须替换5首曲谱JSON，不是只换index；歌名/中文显示数据在曲谱JSON内部。
+  重新下载旧曲会按ID更新手机记录。
+  歌曲ID、文件名、音符PNO1字节、时长、原PNO CRC均保持；只新增显示元数据。
+
+四、SD卡首次补下载区（只补缺失，保留原数据）
+
+已经离线生成：
+D:\gowin_projects\output\unified_song_library_20261019\sd_preparation
+内有SONG0001.BIN～SONG0016.BIN，每个65536字节，总计1MiB。
+把缺失的这些文件复制到SD根目录；若已有同名文件，不要覆盖！
+这些是4位数字的BIN，不是原3位数字的SONG001.PNO。
+TONES49.BIN、SONGS.CAT、SONGxxx.PNO、TAKE0001～0016.BIN都保留。
+不要格式化卡，不要把空模板覆盖到已有下载曲目或录音上。
+
+也可在确认盘符后自己运行下列补齐工具（X:必须改成真实盘符）：
+& "D:\python3.13\python.exe" "D:\gowin_projects\competition\competition_7\competition_7\tools\prepare_download_library.py" --directory "X:\"
+工具仅新建缺失文件，已有文件不论格式是否匹配都保留，并打印提示。
+本次没有自动执行这条实体SD命令。
+
+首次补齐之后，日常下载不需要电脑改SONGS.CAT。
+硬件使用这16个精确匹配的预分配文件保存歌名、位图和音符，并把它们逻辑合并到选曲页；
+不会分配FAT簇、写FAT/目录，避免误伤音库和录音。
+没有准备下载区时，App会返回ERR:SLOT，而不是假装保存成功。
+旧SAVESLOT.BIN保留不删除，但新界面不再读取它。旧格式没有歌名，升级后请把那首曲从手机重新上传一次。
+
+五、实际测试步骤
+
+1. 使用新码流、新App、新JSON；等音库和目录初始化结束。
+   86.7MB PCM在12.5MHz SPI下仅有效数据的理论下限约56秒，实际更久。
+2. 手机连接 -> Music刷新原地址 -> 重新下载“星河漫步” -> 上传并保存。
+3. App应先显示歌名传输、音符传输、等待SD，最终显示“已写入SD并校验”。
+   ACK:E只代表RAM装载；新App会通过MQ等待真正的SD:SAVED，不再让你靠猜。
+4. FPGA进入统一SONG PLAY；保存后该曲应以真实中文歌名成为普通下载曲目，来源DOWNLOAD / SD。
+5. K3/K4切AUTO，K5开始、再次K5停止、再次K5重播；K6停止返回。
+6. 再上传“晨光回旋”，K1/K2应能分别选到两首，第一首不能被第二首覆盖。
+7. 停止播放、确认保存完成，断开手机，彻底断电重启，等待扫描完成。
+   不连接手机仍能在同一选曲页找到两首真实歌名并播放。
+   S0不是复位键。若只下载了SRAM配置，断电后需重配同一新码流，或使用你已有的上电自启动配置。
+8. 再次上传同一ID只更新同一下载条目；满16首后新ID应提示ERR:FULL。
+
+六、电脑只读核验
+
+等保存完成并停止播放，断电取卡再接电脑。按真实盘符替换X:：
+& "D:\python3.13\python.exe" "D:\gowin_projects\competition\competition_7\competition_7\tools\inspect_download_library.py" "X:\"
+可列出下载歌名、ID、时长、计数、代际和副本。
+若还要核对具体JSON，在上述命令后加：
+--expected "D:\gowin_projects\output\unified_song_library_20261019\Starlight_Walk_Original_LongTest.json"
+expected_match=true表示最新有效副本的歌名、位图和PNO字节都与JSON相同。
+工具不会改写卡。仅看到BIN文件存在/修改时间变化，不能证明保存了某首曲。
+
+七、格式和实现边界
+
+每首远程最多1024事件、最多4个同时发声音；本地/录音2048上限保留。
+歌名最多64个UTF-8字节，通用工具生成224x14单色位图，LCD放大2倍显示。
+不是针对当前两首中文歌名硬编码。无法完整放入时工具报错，不静默截掉曲名。
+以后导出曲谱请用更新后的tools/export_app_scores.py，它会加入显示数据。
+手工修改title后必须重新生成display_meta_hex/display_meta_sum，不能只改文字。
+
+MB/MD/ME传元数据（每条最多16个ASCII字符），原SB/SD/SE仍传原PNO1；MQ查询具名保存结果。
+元数据带UTF-8标题、位图和自身CRC；与PNO一起进入事务负载CRC。
+C8SLOT01文件标记、C8SONG01提交头、双副本、头最后提交、写后读回、代际/反码保持保护。
+有效负载为PNO1+480字节元数据；恢复给播放器时剥离480字节，避免把标题当作音符。
+同ID更新、损坏最新副本回退旧音符/旧歌名、重启扫描恢复均有RTL测试。
+显示采用小型双口双缓冲标题RAM；只有发布标志/标签跨时钟，在帧边界切换，避免大片标题总线寄存器复制。
+原LCD仍约15.7帧/秒，标题发布可能等1～2帧，不承诺毫秒级屏幕刷新。
+
+八、验证和未做事项
+
+app/check_unified_songs_app.py：7项生成积木模拟测试通过；五首曲名/ID/音符、两种播放方式、
+真实保存确认后才成功、元数据重试、同ID更新、满额拒绝及下载字段保留。
+tools/check_unified_song_library.py：通用全工程HDL语义检查；真实FAT32/事务核心配模拟扇区设备，
+16首独立文件、1024事件长曲、只恢复PNO、中文位图、ID更新、CRC回退与旧标题一致、复位恢复、
+满额拒绝；未写FAT/目录/不可变标记区；菜单/按键/取消/播放锁定；元数据协议和组包CRC；标题双缓冲与渲染。
+ui_preview目录是实际RTL像素渲染，不是实板照片。
+200项原音频/MIDI/录音/SD底层/IP/资产源码保持逐字节一致；共享存储核心仅增加命名下载变体，原TAKE格式保留。
+未运行新Gowin综合、布线、STA或APK构建；未验证实物BLE、DDR/SD电气、真实掉电缓存和听感。
+旧verification/STA属于旧源码，不能声称新版时序已通过。新构建仍须检查100MHz等原时钟的完整时序报告。
+本次不改引脚，L18仍为矩阵第三行，LED引脚同步与49灯驱动仍另做，不要把LED数据接在这里使用本码流。
+
+修改前备份：D:\gowin_projects\tmp\competition7_before_unified_songs_20261019.zip
+原App和原曲谱文件未覆盖，实体SD没有被本次工具改写。

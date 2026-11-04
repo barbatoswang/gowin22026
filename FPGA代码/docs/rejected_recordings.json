@@ -1,0 +1,4892 @@
+[
+  {
+    "file": "AltoSax.NoVib.pp.C5Ab5.aiff",
+    "start_sample": 85466,
+    "end_sample": 224249,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "AltoSax.NoVib.pp.C5Ab5.aiff",
+    "start_sample": 755345,
+    "end_sample": 912650,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "AltoSax.NoVib.pp.C5Ab5.aiff",
+    "start_sample": 920279,
+    "end_sample": 940433,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "AltoSax.NoVib.pp.C5Ab5.aiff",
+    "start_sample": 1012448,
+    "end_sample": 1020254,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "AltoSax.NoVib.pp.C5Ab5.aiff",
+    "start_sample": 1447274,
+    "end_sample": 1596641,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "AltoSax.NoVib.pp.C5Ab5.aiff",
+    "start_sample": 1601624,
+    "end_sample": 1607666,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "AltoSax.NoVib.pp.C5Ab5.aiff",
+    "start_sample": 1681445,
+    "end_sample": 1849775,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "AltoSax.NoVib.pp.C5Ab5.aiff",
+    "start_sample": 1920908,
+    "end_sample": 2158916,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.C5Bb5.aif",
+    "start_sample": 205418,
+    "end_sample": 211460,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.C5Bb5.aif",
+    "start_sample": 722270,
+    "end_sample": 766679,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.C5Bb5.aif",
+    "start_sample": 1031852,
+    "end_sample": 1069205,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.C5Bb5.aif",
+    "start_sample": 1318061,
+    "end_sample": 1331159,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.C5Bb5.aif",
+    "start_sample": 1347608,
+    "end_sample": 1361147,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.C5Bb5.aif",
+    "start_sample": 1786403,
+    "end_sample": 1810967,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.C5Bb5.aif",
+    "start_sample": 1826093,
+    "end_sample": 1847129,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.C5Bb5.aif",
+    "start_sample": 1856522,
+    "end_sample": 1869179,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.C5Bb5.aif",
+    "start_sample": 1877249,
+    "end_sample": 1896080,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.C5Bb5.aif",
+    "start_sample": 1923554,
+    "end_sample": 1930037,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.C5Bb5.aif",
+    "start_sample": 2191241,
+    "end_sample": 2202134,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.C5Bb5.aif",
+    "start_sample": 2300168,
+    "end_sample": 2405435,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.C5Bb5.aif",
+    "start_sample": 2414828,
+    "end_sample": 2437628,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.C5Bb5.aif",
+    "start_sample": 2533898,
+    "end_sample": 2674445,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.C5Bb5.aif",
+    "start_sample": 2687366,
+    "end_sample": 2697818,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.C5Bb5.aif",
+    "start_sample": 2705006,
+    "end_sample": 2722073,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.C5Bb5.aif",
+    "start_sample": 2946674,
+    "end_sample": 2972120,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.C5Bb5.aif",
+    "start_sample": 2976662,
+    "end_sample": 3030773,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.C5Bb5.aif",
+    "start_sample": 3036638,
+    "end_sample": 3045767,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.E4B4.aif",
+    "start_sample": 186896,
+    "end_sample": 197348,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.E4B4.aif",
+    "start_sample": 214238,
+    "end_sample": 226895,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.E4B4.aif",
+    "start_sample": 761519,
+    "end_sample": 811661,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.E4B4.aif",
+    "start_sample": 829433,
+    "end_sample": 849146,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.E4B4.aif",
+    "start_sample": 859862,
+    "end_sample": 870314,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.E4B4.aif",
+    "start_sample": 1071983,
+    "end_sample": 1161815,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.E4B4.aif",
+    "start_sample": 1166798,
+    "end_sample": 1174163,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.E4B4.aif",
+    "start_sample": 1179146,
+    "end_sample": 1204151,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.E4B4.aif",
+    "start_sample": 1375832,
+    "end_sample": 1534460,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.E4B4.aif",
+    "start_sample": 1539443,
+    "end_sample": 1548572,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.E4B4.aif",
+    "start_sample": 1823006,
+    "end_sample": 1851539,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.E4B4.aif",
+    "start_sample": 1911647,
+    "end_sample": 2078654,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.E4B4.aif",
+    "start_sample": 2084960,
+    "end_sample": 2111729,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.E4B4.aif",
+    "start_sample": 2117153,
+    "end_sample": 2126282,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.E4B4.aif",
+    "start_sample": 2136116,
+    "end_sample": 2146568,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.E4B4.aif",
+    "start_sample": 2154638,
+    "end_sample": 2163326,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.E4B4.aif",
+    "start_sample": 2197856,
+    "end_sample": 2442920,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sul_E.E4B4.aif",
+    "start_sample": 2448344,
+    "end_sample": 2455709,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulA.A2B2.aif",
+    "start_sample": 145883,
+    "end_sample": 165155,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulA.A2B2.aif",
+    "start_sample": 260984,
+    "end_sample": 266585,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulA.A2B2.aif",
+    "start_sample": 332867,
+    "end_sample": 340673,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulA.A2B2.aif",
+    "start_sample": 365060,
+    "end_sample": 371984,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulA.A2B2.aif",
+    "start_sample": 921602,
+    "end_sample": 927644,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulA.A2B2.aif",
+    "start_sample": 1501958,
+    "end_sample": 1541075,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulA.A2B2.aif",
+    "start_sample": 1558406,
+    "end_sample": 1595318,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulA.A2B2.aif",
+    "start_sample": 1617059,
+    "end_sample": 1643387,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulA.A2B2.aif",
+    "start_sample": 1651016,
+    "end_sample": 1659263,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulA.C3B3.aif",
+    "start_sample": 64298,
+    "end_sample": 72545,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulA.C3B3.aif",
+    "start_sample": 219971,
+    "end_sample": 228218,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulA.C3B3.aif",
+    "start_sample": 1409789,
+    "end_sample": 1417595,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulA.C3B3.aif",
+    "start_sample": 1438013,
+    "end_sample": 1451111,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulA.C3B3.aif",
+    "start_sample": 1455653,
+    "end_sample": 1468310,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulA.C3B3.aif",
+    "start_sample": 3099260,
+    "end_sample": 3104861,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulA.C3B3.aif",
+    "start_sample": 3153944,
+    "end_sample": 3162191,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulA.C3B3.aif",
+    "start_sample": 5596202,
+    "end_sample": 5602244,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulA.C3B3.aif",
+    "start_sample": 5608109,
+    "end_sample": 5614592,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulA.C4E4.aif",
+    "start_sample": 153821,
+    "end_sample": 176621,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulA.C4E4.aif",
+    "start_sample": 181604,
+    "end_sample": 192497,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulA.C4E4.aif",
+    "start_sample": 201890,
+    "end_sample": 221162,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulA.C4E4.aif",
+    "start_sample": 227468,
+    "end_sample": 242330,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulA.C4E4.aif",
+    "start_sample": 247754,
+    "end_sample": 266585,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulA.C4E4.aif",
+    "start_sample": 277301,
+    "end_sample": 286871,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulA.C4E4.aif",
+    "start_sample": 943652,
+    "end_sample": 950576,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulA.C4E4.aif",
+    "start_sample": 1247060,
+    "end_sample": 1257512,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulB.B3.aif",
+    "start_sample": 188219,
+    "end_sample": 252473,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulB.B3.aif",
+    "start_sample": 257015,
+    "end_sample": 297014,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulB.B3.aif",
+    "start_sample": 304643,
+    "end_sample": 322151,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulB.B3.aif",
+    "start_sample": 327134,
+    "end_sample": 342437,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulB.C4B4.aif",
+    "start_sample": 166610,
+    "end_sample": 182795,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulB.C4B4.aif",
+    "start_sample": 1135928,
+    "end_sample": 1149908,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulB.C4B4.aif",
+    "start_sample": 1154891,
+    "end_sample": 1167107,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulB.C4B4.aif",
+    "start_sample": 1345844,
+    "end_sample": 1355414,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulB.C4B4.aif",
+    "start_sample": 1753328,
+    "end_sample": 1793327,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulB.C4B4.aif",
+    "start_sample": 2404244,
+    "end_sample": 2417783,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulB.C4B4.aif",
+    "start_sample": 2422766,
+    "end_sample": 2434541,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulB.C4B4.aif",
+    "start_sample": 2464220,
+    "end_sample": 2474231,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulB.C4B4.aif",
+    "start_sample": 2500823,
+    "end_sample": 2507306,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulB.C4B4.aif",
+    "start_sample": 2513171,
+    "end_sample": 2519654,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulB.C4B4.aif",
+    "start_sample": 2813051,
+    "end_sample": 2819975,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulB.C4B4.aif",
+    "start_sample": 3332108,
+    "end_sample": 3338591,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulB.C4B4.aif",
+    "start_sample": 3371357,
+    "end_sample": 3377399,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulB.C5Gb5.aif",
+    "start_sample": 79733,
+    "end_sample": 87098,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulB.C5Gb5.aif",
+    "start_sample": 114572,
+    "end_sample": 123260,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulB.C5Gb5.aif",
+    "start_sample": 1040231,
+    "end_sample": 1046714,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulB.C5Gb5.aif",
+    "start_sample": 1276607,
+    "end_sample": 1282649,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulB.C5Gb5.aif",
+    "start_sample": 1500635,
+    "end_sample": 1529609,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulB.C5Gb5.aif",
+    "start_sample": 1549145,
+    "end_sample": 1556510,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 111926,
+    "end_sample": 138695,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 148970,
+    "end_sample": 162068,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 167051,
+    "end_sample": 191615,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 198803,
+    "end_sample": 206609,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 246872,
+    "end_sample": 256001,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 338600,
+    "end_sample": 345083,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 651710,
+    "end_sample": 704057,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 884558,
+    "end_sample": 897215,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 914987,
+    "end_sample": 925880,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 933068,
+    "end_sample": 940874,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 967025,
+    "end_sample": 973949,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 1273079,
+    "end_sample": 1287941,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 1293365,
+    "end_sample": 1306463,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 1311446,
+    "end_sample": 1319252,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 1325558,
+    "end_sample": 1331600,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 1363043,
+    "end_sample": 1369526,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 1701731,
+    "end_sample": 1707773,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 1720694,
+    "end_sample": 1730264,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 1774496,
+    "end_sample": 1787153,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 1797869,
+    "end_sample": 1804793,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 1813745,
+    "end_sample": 1822433,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 2160371,
+    "end_sample": 2174351,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 2419679,
+    "end_sample": 2453504,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 2518904,
+    "end_sample": 2524946,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 2714708,
+    "end_sample": 2721191,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 2731466,
+    "end_sample": 2748974,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.C4Ab4.aif",
+    "start_sample": 3022967,
+    "end_sample": 3035624,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 175871,
+    "end_sample": 185441,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 206300,
+    "end_sample": 241007,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 290531,
+    "end_sample": 304070,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 313463,
+    "end_sample": 328766,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 400781,
+    "end_sample": 411233,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 451496,
+    "end_sample": 457097,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 1028765,
+    "end_sample": 1055975,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 1079039,
+    "end_sample": 1099634,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 1107263,
+    "end_sample": 1136237,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 1152245,
+    "end_sample": 1159169,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 1188407,
+    "end_sample": 1194449,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 1198991,
+    "end_sample": 1212089,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 1304390,
+    "end_sample": 1311755,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 1735688,
+    "end_sample": 1763780,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 1818155,
+    "end_sample": 1829489,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 1834031,
+    "end_sample": 1849775,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 1866665,
+    "end_sample": 1874030,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 1909883,
+    "end_sample": 1923863,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 1930169,
+    "end_sample": 1941062,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 2272385,
+    "end_sample": 2293421,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 2357057,
+    "end_sample": 2390441,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 2405126,
+    "end_sample": 2419106,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 2424089,
+    "end_sample": 2431454,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 2789237,
+    "end_sample": 2821739,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 2828486,
+    "end_sample": 2845112,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 3096173,
+    "end_sample": 3115445,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 3122633,
+    "end_sample": 3134849,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 3144242,
+    "end_sample": 3157781,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 3187460,
+    "end_sample": 3193502,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 3408401,
+    "end_sample": 3421058,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 3427364,
+    "end_sample": 3434729,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 3685349,
+    "end_sample": 3715646,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 3724157,
+    "end_sample": 3742547,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 3750176,
+    "end_sample": 3770330,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 3797363,
+    "end_sample": 3805169,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 3838817,
+    "end_sample": 3845300,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 4144430,
+    "end_sample": 4186634,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 4192499,
+    "end_sample": 4217504,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 4234835,
+    "end_sample": 4263368,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 4275848,
+    "end_sample": 4303499,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 4656431,
+    "end_sample": 4668206,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 4674953,
+    "end_sample": 4681877,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 4687301,
+    "end_sample": 4693784,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulD.D3B3.aif",
+    "start_sample": 4702295,
+    "end_sample": 4708778,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 515882,
+    "end_sample": 526775,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 981137,
+    "end_sample": 990707,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 1007597,
+    "end_sample": 1013198,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 1025678,
+    "end_sample": 1045391,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 1049933,
+    "end_sample": 1059503,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 1095797,
+    "end_sample": 1101839,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 1123580,
+    "end_sample": 1134473,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 1154891,
+    "end_sample": 1160933,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 1221923,
+    "end_sample": 1230611,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 1241768,
+    "end_sample": 1267655,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 1304390,
+    "end_sample": 1317047,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 1323353,
+    "end_sample": 1332923,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 1341875,
+    "end_sample": 1349240,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 1616177,
+    "end_sample": 1627070,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 1665569,
+    "end_sample": 1672934,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 1687619,
+    "end_sample": 1694984,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 1699967,
+    "end_sample": 1740848,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 1773614,
+    "end_sample": 1780097,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 1797428,
+    "end_sample": 1803470,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 1829621,
+    "end_sample": 1842278,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 2066879,
+    "end_sample": 2077331,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 2572265,
+    "end_sample": 2579630,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 2637974,
+    "end_sample": 2689880,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 2701037,
+    "end_sample": 2707079,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 2714267,
+    "end_sample": 2723837,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 2760572,
+    "end_sample": 2766173,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 2773802,
+    "end_sample": 2788223,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 2971370,
+    "end_sample": 2989760,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 2995184,
+    "end_sample": 3000785,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 3026495,
+    "end_sample": 3041357,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 3253610,
+    "end_sample": 3265826,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 3287567,
+    "end_sample": 3294050,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 3299033,
+    "end_sample": 3357995,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 3377972,
+    "end_sample": 3395921,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 3404432,
+    "end_sample": 3424586,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 3429128,
+    "end_sample": 3440462,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 3573776,
+    "end_sample": 3588197,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 3624491,
+    "end_sample": 3674633,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 3681821,
+    "end_sample": 3690950,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 3736505,
+    "end_sample": 3745634,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 3751058,
+    "end_sample": 3756659,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 3761201,
+    "end_sample": 3767684,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 3793394,
+    "end_sample": 3798995,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 3835730,
+    "end_sample": 3858089,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 3863072,
+    "end_sample": 3869996,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 3883799,
+    "end_sample": 3890723,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 4512224,
+    "end_sample": 4520471,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 4572641,
+    "end_sample": 4583975,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 4588517,
+    "end_sample": 4601174,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 4607921,
+    "end_sample": 4616168,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 4658195,
+    "end_sample": 4684523,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 4689947,
+    "end_sample": 4697312,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.C3B3.aif",
+    "start_sample": 4711115,
+    "end_sample": 4729505,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 189101,
+    "end_sample": 264821,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 270686,
+    "end_sample": 285989,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 294500,
+    "end_sample": 351698,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 367265,
+    "end_sample": 409469,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 415334,
+    "end_sample": 423581,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 431210,
+    "end_sample": 473414,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 499565,
+    "end_sample": 536036,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 566156,
+    "end_sample": 579695,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 584678,
+    "end_sample": 592484,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 1075952,
+    "end_sample": 1127417,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 1160183,
+    "end_sample": 1169312,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 1176941,
+    "end_sample": 1229729,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 1248824,
+    "end_sample": 1259717,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 1264700,
+    "end_sample": 1273829,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 1344080,
+    "end_sample": 1362029,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 1366571,
+    "end_sample": 1388930,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 1393472,
+    "end_sample": 1401278,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 1430075,
+    "end_sample": 1436999,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 1667774,
+    "end_sample": 1698953,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 1703495,
+    "end_sample": 1727618,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 1742303,
+    "end_sample": 1790240,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 1798751,
+    "end_sample": 1810967,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 1826093,
+    "end_sample": 1844924,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 1849466,
+    "end_sample": 1897403,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 1949132,
+    "end_sample": 1963112,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 2155079,
+    "end_sample": 2161562,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 2166545,
+    "end_sample": 2173028,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 2212409,
+    "end_sample": 2221979,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 2228285,
+    "end_sample": 2304005,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 2309429,
+    "end_sample": 2365745,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 2380430,
+    "end_sample": 2392646,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 2435555,
+    "end_sample": 2453063,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 2488475,
+    "end_sample": 2528474,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 2738522,
+    "end_sample": 2755148,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 2760131,
+    "end_sample": 2768378,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 3186137,
+    "end_sample": 3191738,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 3458675,
+    "end_sample": 3464276,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 3481166,
+    "end_sample": 3490736,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 3539378,
+    "end_sample": 3548066,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 3758996,
+    "end_sample": 3784442,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 3792071,
+    "end_sample": 3812225,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 3828233,
+    "end_sample": 3834275,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 3842345,
+    "end_sample": 3867350,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 3876302,
+    "end_sample": 3893369,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 3916874,
+    "end_sample": 3940997,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 3945980,
+    "end_sample": 3955109,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 3960974,
+    "end_sample": 3972308,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 3996695,
+    "end_sample": 4006265,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 4016540,
+    "end_sample": 4031843,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 4036385,
+    "end_sample": 4061831,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 4067696,
+    "end_sample": 4075061,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 4278494,
+    "end_sample": 4287182,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 4310687,
+    "end_sample": 4349804,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 4360961,
+    "end_sample": 4368767,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 4373309,
+    "end_sample": 4407134,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 4414322,
+    "end_sample": 4430948,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 4437254,
+    "end_sample": 4469315,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 4475180,
+    "end_sample": 4489601,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 4498112,
+    "end_sample": 4520030,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 4525013,
+    "end_sample": 4535465,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 4541330,
+    "end_sample": 4578242,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulE.E2B2.aif",
+    "start_sample": 4586753,
+    "end_sample": 4609553,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.C4B4.aif",
+    "start_sample": 297146,
+    "end_sample": 304070,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.C4B4.aif",
+    "start_sample": 567038,
+    "end_sample": 617621,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.C4B4.aif",
+    "start_sample": 622163,
+    "end_sample": 647168,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.C4B4.aif",
+    "start_sample": 653474,
+    "end_sample": 719492,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.C4B4.aif",
+    "start_sample": 727562,
+    "end_sample": 744629,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.C4B4.aif",
+    "start_sample": 750494,
+    "end_sample": 778586,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.C4B4.aif",
+    "start_sample": 1165475,
+    "end_sample": 1171958,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.C4B4.aif",
+    "start_sample": 1178705,
+    "end_sample": 1187834,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.C4B4.aif",
+    "start_sample": 1420373,
+    "end_sample": 1451993,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.C4B4.aif",
+    "start_sample": 1456535,
+    "end_sample": 1534901,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.C4B4.aif",
+    "start_sample": 1541648,
+    "end_sample": 1551659,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.C4B4.aif",
+    "start_sample": 1710992,
+    "end_sample": 1907987,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.C4B4.aif",
+    "start_sample": 1914734,
+    "end_sample": 1950323,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.C4B4.aif",
+    "start_sample": 1956188,
+    "end_sample": 1971491,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.C4B4.aif",
+    "start_sample": 2266211,
+    "end_sample": 2281514,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.C4B4.aif",
+    "start_sample": 2289584,
+    "end_sample": 2299595,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.C4B4.aif",
+    "start_sample": 2585495,
+    "end_sample": 2611823,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.C4B4.aif",
+    "start_sample": 2616365,
+    "end_sample": 2627699,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.C4B4.aif",
+    "start_sample": 2966519,
+    "end_sample": 2982263,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.C4B4.aif",
+    "start_sample": 3163205,
+    "end_sample": 3348734,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.C4B4.aif",
+    "start_sample": 3353717,
+    "end_sample": 3362405,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.C4B4.aif",
+    "start_sample": 3897911,
+    "end_sample": 4056098,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.C4B4.aif",
+    "start_sample": 4060640,
+    "end_sample": 4071974,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.C4B4.aif",
+    "start_sample": 4084895,
+    "end_sample": 4101080,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.C4B4.aif",
+    "start_sample": 4107386,
+    "end_sample": 4112987,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.C5Db5.aif",
+    "start_sample": 219971,
+    "end_sample": 263939,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.G3B3.aif",
+    "start_sample": 98696,
+    "end_sample": 107384,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.G3B3.aif",
+    "start_sample": 127361,
+    "end_sample": 152366,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.G3B3.aif",
+    "start_sample": 171020,
+    "end_sample": 191174,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.G3B3.aif",
+    "start_sample": 199244,
+    "end_sample": 221162,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.G3B3.aif",
+    "start_sample": 227027,
+    "end_sample": 241007,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.G3B3.aif",
+    "start_sample": 469577,
+    "end_sample": 477824,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.G3B3.aif",
+    "start_sample": 485453,
+    "end_sample": 492377,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.G3B3.aif",
+    "start_sample": 498242,
+    "end_sample": 506930,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.G3B3.aif",
+    "start_sample": 523820,
+    "end_sample": 532067,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.G3B3.aif",
+    "start_sample": 536609,
+    "end_sample": 568229,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.G3B3.aif",
+    "start_sample": 578504,
+    "end_sample": 595130,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.G3B3.aif",
+    "start_sample": 620840,
+    "end_sample": 631292,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.G3B3.aif",
+    "start_sample": 833402,
+    "end_sample": 854438,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.G3B3.aif",
+    "start_sample": 869123,
+    "end_sample": 877370,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.G3B3.aif",
+    "start_sample": 883235,
+    "end_sample": 898097,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.G3B3.aif",
+    "start_sample": 917633,
+    "end_sample": 925880,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.G3B3.aif",
+    "start_sample": 1166357,
+    "end_sample": 1223555,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.G3B3.aif",
+    "start_sample": 1230302,
+    "end_sample": 1244723,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.G3B3.aif",
+    "start_sample": 1270874,
+    "end_sample": 1276475,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.G3B3.aif",
+    "start_sample": 1340552,
+    "end_sample": 1346153,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.G3B3.aif",
+    "start_sample": 1526654,
+    "end_sample": 1537106,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.G3B3.aif",
+    "start_sample": 1542089,
+    "end_sample": 1548131,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.G3B3.aif",
+    "start_sample": 1567226,
+    "end_sample": 1616045,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.ff.sulG.G3B3.aif",
+    "start_sample": 1628084,
+    "end_sample": 1634567,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sul_E.C5B5.aif",
+    "start_sample": 216884,
+    "end_sample": 223367,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sul_E.C5B5.aif",
+    "start_sample": 474428,
+    "end_sample": 488849,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sul_E.C5B5.aif",
+    "start_sample": 649064,
+    "end_sample": 756536,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sul_E.C5B5.aif",
+    "start_sample": 1853435,
+    "end_sample": 1859918,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sul_E.C5B5.aif",
+    "start_sample": 2576675,
+    "end_sample": 2582276,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sul_E.E4B4.aif",
+    "start_sample": 268040,
+    "end_sample": 297014,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sul_E.E4B4.aif",
+    "start_sample": 617312,
+    "end_sample": 626000,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sul_E.E4B4.aif",
+    "start_sample": 642890,
+    "end_sample": 651137,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sul_E.E4B4.aif",
+    "start_sample": 1242209,
+    "end_sample": 1259276,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sul_E.E4B4.aif",
+    "start_sample": 1265141,
+    "end_sample": 1272947,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sul_E.E4B4.aif",
+    "start_sample": 1571636,
+    "end_sample": 1601051,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sul_E.E4B4.aif",
+    "start_sample": 1606034,
+    "end_sample": 1621337,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sul_E.E4B4.aif",
+    "start_sample": 1950455,
+    "end_sample": 1956056,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sul_E.E4B4.aif",
+    "start_sample": 2551538,
+    "end_sample": 2573456,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.A2B2.aif",
+    "start_sample": 799004,
+    "end_sample": 820922,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.A2B2.aif",
+    "start_sample": 1102853,
+    "end_sample": 1140647,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.A2B2.aif",
+    "start_sample": 1146953,
+    "end_sample": 1156523,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.A2B2.aif",
+    "start_sample": 1180910,
+    "end_sample": 1194008,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.A2B2.aif",
+    "start_sample": 1334819,
+    "end_sample": 1343507,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 917633,
+    "end_sample": 926321,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 931745,
+    "end_sample": 937787,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 1104176,
+    "end_sample": 1110659,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 1128872,
+    "end_sample": 1143734,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 1249265,
+    "end_sample": 1257512,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 1594568,
+    "end_sample": 1602374,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 1732160,
+    "end_sample": 1739966,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 1744508,
+    "end_sample": 1752314,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 1756856,
+    "end_sample": 1768631,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 1793018,
+    "end_sample": 1806116,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 1811099,
+    "end_sample": 1830371,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 1834913,
+    "end_sample": 1851539,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 1867547,
+    "end_sample": 1883732,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 1901063,
+    "end_sample": 1916807,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 1924877,
+    "end_sample": 1938416,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 1942958,
+    "end_sample": 1976783,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 1983530,
+    "end_sample": 2007212,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 2515817,
+    "end_sample": 2521418,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 2651204,
+    "end_sample": 2663861,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 2825840,
+    "end_sample": 2853491,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 2935649,
+    "end_sample": 2941250,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 3378413,
+    "end_sample": 3384896,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 3482048,
+    "end_sample": 3488531,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 3681821,
+    "end_sample": 3696683,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 4209257,
+    "end_sample": 4214858,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 4807694,
+    "end_sample": 4817264,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C3B3.aif",
+    "start_sample": 4897658,
+    "end_sample": 4908992,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 104870,
+    "end_sample": 110471,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 115454,
+    "end_sample": 129875,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 260543,
+    "end_sample": 270995,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 498683,
+    "end_sample": 505166,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 513677,
+    "end_sample": 526775,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 537491,
+    "end_sample": 564701,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 574535,
+    "end_sample": 589397,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 609815,
+    "end_sample": 616298,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 621281,
+    "end_sample": 629087,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 649064,
+    "end_sample": 676715,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 824141,
+    "end_sample": 844295,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 858098,
+    "end_sample": 882662,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 890291,
+    "end_sample": 896774,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 951590,
+    "end_sample": 962483,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 967907,
+    "end_sample": 987620,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 1154891,
+    "end_sample": 1163579,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 1168562,
+    "end_sample": 1174163,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 1184879,
+    "end_sample": 1200182,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 1206929,
+    "end_sample": 1223114,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 1258085,
+    "end_sample": 1277357,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 1287191,
+    "end_sample": 1295438,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 1304831,
+    "end_sample": 1312196,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 1318502,
+    "end_sample": 1327190,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 1364807,
+    "end_sample": 1370849,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 1486964,
+    "end_sample": 1504031,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 1523126,
+    "end_sample": 1532255,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 1537238,
+    "end_sample": 1543721,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 1565462,
+    "end_sample": 1573268,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulA.C4E4.aif",
+    "start_sample": 1626320,
+    "end_sample": 1636331,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.B3.aif",
+    "start_sample": 238493,
+    "end_sample": 390506,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.B3.aif",
+    "start_sample": 395048,
+    "end_sample": 405500,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.B3.aif",
+    "start_sample": 418862,
+    "end_sample": 444308,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.B3.aif",
+    "start_sample": 454583,
+    "end_sample": 463271,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C4B4.aif",
+    "start_sample": 279506,
+    "end_sample": 299660,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C4B4.aif",
+    "start_sample": 953795,
+    "end_sample": 966452,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C4B4.aif",
+    "start_sample": 972758,
+    "end_sample": 985415,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C4B4.aif",
+    "start_sample": 1245296,
+    "end_sample": 1265450,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C4B4.aif",
+    "start_sample": 1275725,
+    "end_sample": 1303376,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C4B4.aif",
+    "start_sample": 1307918,
+    "end_sample": 1314401,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C4B4.aif",
+    "start_sample": 1635140,
+    "end_sample": 1701158,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C4B4.aif",
+    "start_sample": 1707464,
+    "end_sample": 1714829,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C4B4.aif",
+    "start_sample": 1719371,
+    "end_sample": 1728500,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C4B4.aif",
+    "start_sample": 2005139,
+    "end_sample": 2074685,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C4B4.aif",
+    "start_sample": 2386163,
+    "end_sample": 2401025,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C4B4.aif",
+    "start_sample": 2753957,
+    "end_sample": 2762204,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C4B4.aif",
+    "start_sample": 2772479,
+    "end_sample": 2778080,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C4B4.aif",
+    "start_sample": 3003122,
+    "end_sample": 3086780,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C4B4.aif",
+    "start_sample": 3093527,
+    "end_sample": 3101774,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C4B4.aif",
+    "start_sample": 3107639,
+    "end_sample": 3115004,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C4B4.aif",
+    "start_sample": 3119546,
+    "end_sample": 3127352,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C4B4.aif",
+    "start_sample": 3437066,
+    "end_sample": 3449723,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C4B4.aif",
+    "start_sample": 3754145,
+    "end_sample": 3766802,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C4B4.aif",
+    "start_sample": 4051379,
+    "end_sample": 4082558,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C4B4.aif",
+    "start_sample": 4088423,
+    "end_sample": 4121807,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C4B4.aif",
+    "start_sample": 4128554,
+    "end_sample": 4134155,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C5Gb5.aif",
+    "start_sample": 67385,
+    "end_sample": 96359,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C5Gb5.aif",
+    "start_sample": 104429,
+    "end_sample": 116645,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C5Gb5.aif",
+    "start_sample": 126479,
+    "end_sample": 133403,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C5Gb5.aif",
+    "start_sample": 144560,
+    "end_sample": 152366,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C5Gb5.aif",
+    "start_sample": 208946,
+    "end_sample": 214988,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C5Gb5.aif",
+    "start_sample": 383582,
+    "end_sample": 421817,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C5Gb5.aif",
+    "start_sample": 426359,
+    "end_sample": 442103,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C5Gb5.aif",
+    "start_sample": 648182,
+    "end_sample": 682889,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C5Gb5.aif",
+    "start_sample": 689636,
+    "end_sample": 709349,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C5Gb5.aif",
+    "start_sample": 713891,
+    "end_sample": 732722,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C5Gb5.aif",
+    "start_sample": 741674,
+    "end_sample": 763151,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C5Gb5.aif",
+    "start_sample": 776513,
+    "end_sample": 803723,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C5Gb5.aif",
+    "start_sample": 907049,
+    "end_sample": 956309,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C5Gb5.aif",
+    "start_sample": 962174,
+    "end_sample": 976595,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C5Gb5.aif",
+    "start_sample": 981137,
+    "end_sample": 987179,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C5Gb5.aif",
+    "start_sample": 995249,
+    "end_sample": 1006583,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C5Gb5.aif",
+    "start_sample": 1066691,
+    "end_sample": 1079789,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C5Gb5.aif",
+    "start_sample": 1299539,
+    "end_sample": 1336451,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C5Gb5.aif",
+    "start_sample": 1511660,
+    "end_sample": 1532255,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C5Gb5.aif",
+    "start_sample": 1537238,
+    "end_sample": 1543280,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C5Gb5.aif",
+    "start_sample": 1547822,
+    "end_sample": 1557833,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C5Gb5.aif",
+    "start_sample": 1750241,
+    "end_sample": 1795091,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulB.C5Gb5.aif",
+    "start_sample": 1810658,
+    "end_sample": 1819346,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.C4Ab4.aif",
+    "start_sample": 163523,
+    "end_sample": 170006,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.C4Ab4.aif",
+    "start_sample": 186014,
+    "end_sample": 197348,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.C4Ab4.aif",
+    "start_sample": 442235,
+    "end_sample": 454892,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.C4Ab4.aif",
+    "start_sample": 462521,
+    "end_sample": 502079,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.C4Ab4.aif",
+    "start_sample": 526025,
+    "end_sample": 531626,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.C4Ab4.aif",
+    "start_sample": 822818,
+    "end_sample": 874724,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.C4Ab4.aif",
+    "start_sample": 897788,
+    "end_sample": 905153,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.C4Ab4.aif",
+    "start_sample": 1075952,
+    "end_sample": 1134032,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.C4Ab4.aif",
+    "start_sample": 1141220,
+    "end_sample": 1156523,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.C4Ab4.aif",
+    "start_sample": 1162829,
+    "end_sample": 1178573,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.C4Ab4.aif",
+    "start_sample": 1186202,
+    "end_sample": 1192244,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.C4Ab4.aif",
+    "start_sample": 1197668,
+    "end_sample": 1213412,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.C4Ab4.aif",
+    "start_sample": 1483877,
+    "end_sample": 1500944,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.C4Ab4.aif",
+    "start_sample": 1506809,
+    "end_sample": 1516379,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.C4Ab4.aif",
+    "start_sample": 1520921,
+    "end_sample": 1530932,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.C4Ab4.aif",
+    "start_sample": 1852112,
+    "end_sample": 1866092,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.C4Ab4.aif",
+    "start_sample": 2051444,
+    "end_sample": 2088356,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.C4Ab4.aif",
+    "start_sample": 2099072,
+    "end_sample": 2144804,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.C4Ab4.aif",
+    "start_sample": 2339417,
+    "end_sample": 2356925,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.C4Ab4.aif",
+    "start_sample": 2362790,
+    "end_sample": 2379857,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.C4Ab4.aif",
+    "start_sample": 2399393,
+    "end_sample": 2414255,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.C4Ab4.aif",
+    "start_sample": 2419679,
+    "end_sample": 2426162,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.C4Ab4.aif",
+    "start_sample": 2585054,
+    "end_sample": 2597270,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.C4Ab4.aif",
+    "start_sample": 2603135,
+    "end_sample": 2663861,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.C4Ab4.aif",
+    "start_sample": 2673695,
+    "end_sample": 2680178,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 311699,
+    "end_sample": 392711,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 406955,
+    "end_sample": 424904,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 440912,
+    "end_sample": 465035,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 476192,
+    "end_sample": 492818,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 523820,
+    "end_sample": 534713,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 584237,
+    "end_sample": 596453,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 1029647,
+    "end_sample": 1063472,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 1070219,
+    "end_sample": 1081994,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 1097120,
+    "end_sample": 1123448,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 1129754,
+    "end_sample": 1149467,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 1155332,
+    "end_sample": 1192244,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 1200314,
+    "end_sample": 1209884,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 1222364,
+    "end_sample": 1238990,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 1244855,
+    "end_sample": 1252220,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 1377155,
+    "end_sample": 1897403,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 2107892,
+    "end_sample": 2128046,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 2134352,
+    "end_sample": 2145686,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 2189918,
+    "end_sample": 2196401,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 2201384,
+    "end_sample": 2210513,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 2216378,
+    "end_sample": 2223743,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 2232254,
+    "end_sample": 2241383,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 2253863,
+    "end_sample": 2261669,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 2274590,
+    "end_sample": 2284601,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 2622539,
+    "end_sample": 2666066,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 2676782,
+    "end_sample": 2685029,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 2698391,
+    "end_sample": 2719427,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 2727938,
+    "end_sample": 2736185,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 2764100,
+    "end_sample": 2771906,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 3008414,
+    "end_sample": 3084134,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 3097937,
+    "end_sample": 3109712,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 3115577,
+    "end_sample": 3159545,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 3165851,
+    "end_sample": 3174539,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 3185255,
+    "end_sample": 3207614,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 3220094,
+    "end_sample": 3236720,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 3563633,
+    "end_sample": 3571880,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 3583919,
+    "end_sample": 3592166,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 3602441,
+    "end_sample": 3612452,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 3965384,
+    "end_sample": 3974513,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 4211021,
+    "end_sample": 4235585,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 4240127,
+    "end_sample": 4248815,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 4318625,
+    "end_sample": 4327754,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 4531187,
+    "end_sample": 4539875,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 4544858,
+    "end_sample": 4569863,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 4574405,
+    "end_sample": 4625870,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulD.D3B3.aif",
+    "start_sample": 4659518,
+    "end_sample": 4675703,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 162641,
+    "end_sample": 175739,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 188219,
+    "end_sample": 256442,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 261425,
+    "end_sample": 282902,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 288767,
+    "end_sample": 345965,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 582473,
+    "end_sample": 588515,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 652592,
+    "end_sample": 667895,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 728885,
+    "end_sample": 740219,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 745202,
+    "end_sample": 756977,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 952472,
+    "end_sample": 960719,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 1217954,
+    "end_sample": 1289705,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 1294247,
+    "end_sample": 1391576,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 1397882,
+    "end_sample": 1508441,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 1517834,
+    "end_sample": 1543721,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 1550468,
+    "end_sample": 1578560,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 1584425,
+    "end_sample": 1590467,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 1595891,
+    "end_sample": 1606784,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 1811540,
+    "end_sample": 1908428,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 1916057,
+    "end_sample": 1983839,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 1988822,
+    "end_sample": 2049989,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 2056736,
+    "end_sample": 2063219,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 2097308,
+    "end_sample": 2103350,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 2290466,
+    "end_sample": 2326937,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 2331479,
+    "end_sample": 2345900,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 2350883,
+    "end_sample": 2360453,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 2364995,
+    "end_sample": 2390441,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 2407331,
+    "end_sample": 2464970,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 2967842,
+    "end_sample": 3030773,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 3039725,
+    "end_sample": 3046208,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 3050750,
+    "end_sample": 3067817,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 3072359,
+    "end_sample": 3105743,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 3123074,
+    "end_sample": 3178949,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 3183932,
+    "end_sample": 3190856,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 3199808,
+    "end_sample": 3209378,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 3726803,
+    "end_sample": 3744752,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 3750617,
+    "end_sample": 3763274,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 3793835,
+    "end_sample": 3806051,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 3941129,
+    "end_sample": 3948494,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 3959210,
+    "end_sample": 3993476,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 4002428,
+    "end_sample": 4015085,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 4030652,
+    "end_sample": 4073297,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 4081367,
+    "end_sample": 4108577,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.C3B3.aif",
+    "start_sample": 4557647,
+    "end_sample": 4566776,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.E2B2.aif",
+    "start_sample": 127802,
+    "end_sample": 135167,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.E2B2.aif",
+    "start_sample": 277742,
+    "end_sample": 283784,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.E2B2.aif",
+    "start_sample": 572330,
+    "end_sample": 578813,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.E2B2.aif",
+    "start_sample": 609815,
+    "end_sample": 618503,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.E2B2.aif",
+    "start_sample": 640685,
+    "end_sample": 646727,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.E2B2.aif",
+    "start_sample": 853247,
+    "end_sample": 865904,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.E2B2.aif",
+    "start_sample": 1197227,
+    "end_sample": 1212971,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.E2B2.aif",
+    "start_sample": 1254116,
+    "end_sample": 1260158,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.E2B2.aif",
+    "start_sample": 1293806,
+    "end_sample": 1305140,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.E2B2.aif",
+    "start_sample": 1329527,
+    "end_sample": 1336892,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.E2B2.aif",
+    "start_sample": 1378037,
+    "end_sample": 1394222,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.E2B2.aif",
+    "start_sample": 1757738,
+    "end_sample": 1781861,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.E2B2.aif",
+    "start_sample": 2135234,
+    "end_sample": 2150096,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.E2B2.aif",
+    "start_sample": 2155079,
+    "end_sample": 2194196,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.E2B2.aif",
+    "start_sample": 2524196,
+    "end_sample": 2548760,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.E2B2.aif",
+    "start_sample": 2600048,
+    "end_sample": 2606972,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.E2B2.aif",
+    "start_sample": 2984600,
+    "end_sample": 3012251,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.E2B2.aif",
+    "start_sample": 3478520,
+    "end_sample": 3599222,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.E2B2.aif",
+    "start_sample": 3603764,
+    "end_sample": 3614657,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulE.E2B2.aif",
+    "start_sample": 3619640,
+    "end_sample": 3646850,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.C4B4.aif",
+    "start_sample": 197921,
+    "end_sample": 209255,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.C4B4.aif",
+    "start_sample": 222617,
+    "end_sample": 265703,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.C4B4.aif",
+    "start_sample": 274655,
+    "end_sample": 283784,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.C4B4.aif",
+    "start_sample": 539255,
+    "end_sample": 558968,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.C4B4.aif",
+    "start_sample": 570125,
+    "end_sample": 577490,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.C4B4.aif",
+    "start_sample": 917633,
+    "end_sample": 927644,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.C4B4.aif",
+    "start_sample": 1263377,
+    "end_sample": 1296320,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.C4B4.aif",
+    "start_sample": 1301744,
+    "end_sample": 1307786,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.C4B4.aif",
+    "start_sample": 1316297,
+    "end_sample": 1328072,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.C4B4.aif",
+    "start_sample": 1601183,
+    "end_sample": 1620014,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.C4B4.aif",
+    "start_sample": 1877690,
+    "end_sample": 1886378,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.C4B4.aif",
+    "start_sample": 2599166,
+    "end_sample": 2612705,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.C4B4.aif",
+    "start_sample": 2859356,
+    "end_sample": 2899355,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.C4B4.aif",
+    "start_sample": 3189665,
+    "end_sample": 3209819,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.C4B4.aif",
+    "start_sample": 3222299,
+    "end_sample": 3229223,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.C4B4.aif",
+    "start_sample": 3471023,
+    "end_sample": 3521165,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.C4B4.aif",
+    "start_sample": 3529676,
+    "end_sample": 3563060,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.C4B4.aif",
+    "start_sample": 3828674,
+    "end_sample": 3847946,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.C4B4.aif",
+    "start_sample": 3858221,
+    "end_sample": 3877493,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.C5Db5.aif",
+    "start_sample": 531758,
+    "end_sample": 540005,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.C5Db5.aif",
+    "start_sample": 548516,
+    "end_sample": 557645,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.G3B3.aif",
+    "start_sample": 415334,
+    "end_sample": 424904,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.G3B3.aif",
+    "start_sample": 973640,
+    "end_sample": 1096547,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.G3B3.aif",
+    "start_sample": 1154450,
+    "end_sample": 1163138,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.G3B3.aif",
+    "start_sample": 1500635,
+    "end_sample": 1519907,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.G3B3.aif",
+    "start_sample": 1746272,
+    "end_sample": 1757606,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.G3B3.aif",
+    "start_sample": 1764353,
+    "end_sample": 1804793,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.mf.sulG.G3B3.aif",
+    "start_sample": 1820801,
+    "end_sample": 1859036,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sul_E.C5B5.aif",
+    "start_sample": 203213,
+    "end_sample": 219839,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sul_E.C5B5.aif",
+    "start_sample": 752699,
+    "end_sample": 760505,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sul_E.C5B5.aif",
+    "start_sample": 1991909,
+    "end_sample": 2001038,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sul_E.C5B5.aif",
+    "start_sample": 2242838,
+    "end_sample": 2432336,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sul_E.E4B4.aif",
+    "start_sample": 0,
+    "end_sample": 187205,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sul_E.E4B4.aif",
+    "start_sample": 226586,
+    "end_sample": 407705,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sul_E.E4B4.aif",
+    "start_sample": 1548704,
+    "end_sample": 1564007,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.A2B2.aif",
+    "start_sample": 692723,
+    "end_sample": 716405,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.A2B2.aif",
+    "start_sample": 742556,
+    "end_sample": 753890,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.A2B2.aif",
+    "start_sample": 764606,
+    "end_sample": 805487,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.A2B2.aif",
+    "start_sample": 1092710,
+    "end_sample": 1108454,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.A2B2.aif",
+    "start_sample": 1115201,
+    "end_sample": 1131386,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.A2B2.aif",
+    "start_sample": 1137251,
+    "end_sample": 1155641,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.A2B2.aif",
+    "start_sample": 1160183,
+    "end_sample": 1169312,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.A2B2.aif",
+    "start_sample": 1182233,
+    "end_sample": 1205033,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.A2B2.aif",
+    "start_sample": 1212221,
+    "end_sample": 1221350,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.A2B2.aif",
+    "start_sample": 1243973,
+    "end_sample": 1277357,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.A2B2.aif",
+    "start_sample": 1284104,
+    "end_sample": 1293233,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.A2B2.aif",
+    "start_sample": 1322030,
+    "end_sample": 1331600,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.A2B2.aif",
+    "start_sample": 1369217,
+    "end_sample": 1375700,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.C3B3.aif",
+    "start_sample": 58565,
+    "end_sample": 96359,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.C3B3.aif",
+    "start_sample": 114131,
+    "end_sample": 121937,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.C3B3.aif",
+    "start_sample": 694046,
+    "end_sample": 725666,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.C3B3.aif",
+    "start_sample": 746084,
+    "end_sample": 753449,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.C3B3.aif",
+    "start_sample": 3467495,
+    "end_sample": 3482357,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.C3B3.aif",
+    "start_sample": 4024478,
+    "end_sample": 4064036,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.C4E4.aif",
+    "start_sample": 117659,
+    "end_sample": 136931,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.C4E4.aif",
+    "start_sample": 145001,
+    "end_sample": 198230,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.C4E4.aif",
+    "start_sample": 209387,
+    "end_sample": 241448,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.C4E4.aif",
+    "start_sample": 638480,
+    "end_sample": 646727,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.C4E4.aif",
+    "start_sample": 652592,
+    "end_sample": 685094,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.C4E4.aif",
+    "start_sample": 698015,
+    "end_sample": 707585,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.C4E4.aif",
+    "start_sample": 729767,
+    "end_sample": 741542,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.C4E4.aif",
+    "start_sample": 754904,
+    "end_sample": 763592,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.C4E4.aif",
+    "start_sample": 795035,
+    "end_sample": 810779,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.C4E4.aif",
+    "start_sample": 1037585,
+    "end_sample": 1060826,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.C4E4.aif",
+    "start_sample": 1187525,
+    "end_sample": 1229729,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulA.C4E4.aif",
+    "start_sample": 1258526,
+    "end_sample": 1272947,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 328016,
+    "end_sample": 334940,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 578063,
+    "end_sample": 695237,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 706394,
+    "end_sample": 717728,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 1040672,
+    "end_sample": 1078025,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 1085213,
+    "end_sample": 1097429,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 1101971,
+    "end_sample": 1109777,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 1181792,
+    "end_sample": 1510646,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 1516070,
+    "end_sample": 1546367,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 1820801,
+    "end_sample": 1874030,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 2266211,
+    "end_sample": 2278427,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 2296640,
+    "end_sample": 2310620,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 2315162,
+    "end_sample": 2322527,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 2551097,
+    "end_sample": 2637842,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 2652086,
+    "end_sample": 2666948,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 2678987,
+    "end_sample": 2685911,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 2966078,
+    "end_sample": 2974766,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 2997389,
+    "end_sample": 3007841,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 3255374,
+    "end_sample": 3277733,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 3282275,
+    "end_sample": 3293168,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 3300356,
+    "end_sample": 3319628,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 3325493,
+    "end_sample": 3333740,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 3388115,
+    "end_sample": 3633620,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 3646982,
+    "end_sample": 3658757,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 3663740,
+    "end_sample": 3677279,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 3692846,
+    "end_sample": 3706385,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 3946421,
+    "end_sample": 3995240,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 4000664,
+    "end_sample": 4018613,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C4B4.aif",
+    "start_sample": 4039472,
+    "end_sample": 4048160,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C5Gb5.aif",
+    "start_sample": 242903,
+    "end_sample": 253796,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C5Gb5.aif",
+    "start_sample": 525143,
+    "end_sample": 531626,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C5Gb5.aif",
+    "start_sample": 789302,
+    "end_sample": 834152,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C5Gb5.aif",
+    "start_sample": 1258526,
+    "end_sample": 1271624,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulB.C5Gb5.aif",
+    "start_sample": 1981325,
+    "end_sample": 1997069,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.C4Ab4.aif",
+    "start_sample": 64298,
+    "end_sample": 72104,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.C4Ab4.aif",
+    "start_sample": 77087,
+    "end_sample": 148397,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.C4Ab4.aif",
+    "start_sample": 167933,
+    "end_sample": 186764,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.C4Ab4.aif",
+    "start_sample": 193511,
+    "end_sample": 206168,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.C4Ab4.aif",
+    "start_sample": 455465,
+    "end_sample": 548384,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.C4Ab4.aif",
+    "start_sample": 556013,
+    "end_sample": 566906,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.C4Ab4.aif",
+    "start_sample": 776072,
+    "end_sample": 797108,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.C4Ab4.aif",
+    "start_sample": 868241,
+    "end_sample": 880457,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.C4Ab4.aif",
+    "start_sample": 918074,
+    "end_sample": 924557,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.C4Ab4.aif",
+    "start_sample": 1154450,
+    "end_sample": 1168430,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.C4Ab4.aif",
+    "start_sample": 1432721,
+    "end_sample": 1489478,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.C4Ab4.aif",
+    "start_sample": 1505486,
+    "end_sample": 1513733,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.C4Ab4.aif",
+    "start_sample": 1553555,
+    "end_sample": 1567094,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.C4Ab4.aif",
+    "start_sample": 1808453,
+    "end_sample": 1819346,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.C4Ab4.aif",
+    "start_sample": 1826093,
+    "end_sample": 1834340,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.C4Ab4.aif",
+    "start_sample": 1845056,
+    "end_sample": 1855067,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.C4Ab4.aif",
+    "start_sample": 1860491,
+    "end_sample": 1873148,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.C4Ab4.aif",
+    "start_sample": 2323982,
+    "end_sample": 2345900,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.C4Ab4.aif",
+    "start_sample": 2350883,
+    "end_sample": 2363981,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.C4Ab4.aif",
+    "start_sample": 2374256,
+    "end_sample": 2384708,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.C4Ab4.aif",
+    "start_sample": 2408213,
+    "end_sample": 2415137,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.C4Ab4.aif",
+    "start_sample": 2564327,
+    "end_sample": 2577866,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 0,
+    "end_sample": 663044,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 669350,
+    "end_sample": 861053,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 865595,
+    "end_sample": 1103603,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 1362161,
+    "end_sample": 1368203,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 1404938,
+    "end_sample": 1418477,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 1718048,
+    "end_sample": 1753196,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 1757738,
+    "end_sample": 1812731,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 1823006,
+    "end_sample": 1836986,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 2133470,
+    "end_sample": 2147891,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 2158607,
+    "end_sample": 2165090,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 2325746,
+    "end_sample": 2448653,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 2454518,
+    "end_sample": 2467175,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 2472158,
+    "end_sample": 2493635,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 2498177,
+    "end_sample": 2520095,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 2526842,
+    "end_sample": 2536853,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 2715149,
+    "end_sample": 2768378,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 2773361,
+    "end_sample": 2788223,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 2796734,
+    "end_sample": 2809391,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 2815256,
+    "end_sample": 2820857,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 2826281,
+    "end_sample": 2843789,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 3082061,
+    "end_sample": 3131762,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 3137186,
+    "end_sample": 3180272,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 3196280,
+    "end_sample": 3211142,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 3392966,
+    "end_sample": 3411797,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 3416339,
+    "end_sample": 3447077,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 3452060,
+    "end_sample": 3458984,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 3464849,
+    "end_sample": 3471332,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 3478079,
+    "end_sample": 3505730,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 3753704,
+    "end_sample": 3807815,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 3812357,
+    "end_sample": 3821486,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulD.D3B3.aif",
+    "start_sample": 3827351,
+    "end_sample": 3844418,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.C3B3.aif",
+    "start_sample": 76646,
+    "end_sample": 93272,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.C3B3.aif",
+    "start_sample": 511472,
+    "end_sample": 520160,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.C3B3.aif",
+    "start_sample": 1175618,
+    "end_sample": 1183424,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.C3B3.aif",
+    "start_sample": 1215308,
+    "end_sample": 1239872,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.C3B3.aif",
+    "start_sample": 1292924,
+    "end_sample": 1307786,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.C3B3.aif",
+    "start_sample": 1340111,
+    "end_sample": 1346153,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.C3B3.aif",
+    "start_sample": 1506368,
+    "end_sample": 1515938,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.C3B3.aif",
+    "start_sample": 1586189,
+    "end_sample": 1601492,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.C3B3.aif",
+    "start_sample": 1643960,
+    "end_sample": 1650443,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.C3B3.aif",
+    "start_sample": 2083196,
+    "end_sample": 2088797,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.C3B3.aif",
+    "start_sample": 2610191,
+    "end_sample": 2621966,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.C3B3.aif",
+    "start_sample": 2626508,
+    "end_sample": 2640047,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.C3B3.aif",
+    "start_sample": 2669285,
+    "end_sample": 2692526,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.C3B3.aif",
+    "start_sample": 2770715,
+    "end_sample": 2777639,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.C3B3.aif",
+    "start_sample": 2821430,
+    "end_sample": 2835851,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.C3B3.aif",
+    "start_sample": 2843921,
+    "end_sample": 2858342,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.C3B3.aif",
+    "start_sample": 3066185,
+    "end_sample": 3072227,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.C3B3.aif",
+    "start_sample": 3086471,
+    "end_sample": 3094718,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.E2B2.aif",
+    "start_sample": 127361,
+    "end_sample": 138254,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.E2B2.aif",
+    "start_sample": 174107,
+    "end_sample": 182354,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.E2B2.aif",
+    "start_sample": 196157,
+    "end_sample": 203081,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.E2B2.aif",
+    "start_sample": 225263,
+    "end_sample": 237038,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.E2B2.aif",
+    "start_sample": 396371,
+    "end_sample": 401972,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.E2B2.aif",
+    "start_sample": 755786,
+    "end_sample": 770648,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.E2B2.aif",
+    "start_sample": 1205165,
+    "end_sample": 1454639,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.E2B2.aif",
+    "start_sample": 1459622,
+    "end_sample": 1489478,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.E2B2.aif",
+    "start_sample": 1583984,
+    "end_sample": 1590467,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.E2B2.aif",
+    "start_sample": 2246807,
+    "end_sample": 2255495,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.E2B2.aif",
+    "start_sample": 2276354,
+    "end_sample": 2299595,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.E2B2.aif",
+    "start_sample": 2321336,
+    "end_sample": 2328260,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.E2B2.aif",
+    "start_sample": 2337653,
+    "end_sample": 2345459,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.E2B2.aif",
+    "start_sample": 2462897,
+    "end_sample": 2469380,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.E2B2.aif",
+    "start_sample": 2496413,
+    "end_sample": 2505101,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.E2B2.aif",
+    "start_sample": 2684279,
+    "end_sample": 2751620,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.E2B2.aif",
+    "start_sample": 2756162,
+    "end_sample": 2774111,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.E2B2.aif",
+    "start_sample": 2822753,
+    "end_sample": 2829677,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.E2B2.aif",
+    "start_sample": 2858033,
+    "end_sample": 2865398,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.E2B2.aif",
+    "start_sample": 3124397,
+    "end_sample": 3132644,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulE.E2B2.aif",
+    "start_sample": 3207305,
+    "end_sample": 3234956,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.C4B4.aif",
+    "start_sample": 138827,
+    "end_sample": 210578,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.C4B4.aif",
+    "start_sample": 216443,
+    "end_sample": 225572,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.C4B4.aif",
+    "start_sample": 529112,
+    "end_sample": 539564,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.C4B4.aif",
+    "start_sample": 544547,
+    "end_sample": 566906,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.C4B4.aif",
+    "start_sample": 825023,
+    "end_sample": 850028,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.C4B4.aif",
+    "start_sample": 858539,
+    "end_sample": 865463,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.C4B4.aif",
+    "start_sample": 1073306,
+    "end_sample": 1111982,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.C4B4.aif",
+    "start_sample": 1118729,
+    "end_sample": 1164902,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.C4B4.aif",
+    "start_sample": 1188407,
+    "end_sample": 1198418,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.C4B4.aif",
+    "start_sample": 1321589,
+    "end_sample": 1365998,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.C4B4.aif",
+    "start_sample": 1370540,
+    "end_sample": 1466987,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.C4B4.aif",
+    "start_sample": 1472411,
+    "end_sample": 1483304,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.C4B4.aif",
+    "start_sample": 1487846,
+    "end_sample": 1498298,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.C4B4.aif",
+    "start_sample": 1504604,
+    "end_sample": 1510205,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.C4B4.aif",
+    "start_sample": 1516511,
+    "end_sample": 1539311,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.C4B4.aif",
+    "start_sample": 2130383,
+    "end_sample": 2286806,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.C4B4.aif",
+    "start_sample": 2292230,
+    "end_sample": 2324291,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.C4B4.aif",
+    "start_sample": 2344709,
+    "end_sample": 2361335,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.C4B4.aif",
+    "start_sample": 2524637,
+    "end_sample": 2570369,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.C4B4.aif",
+    "start_sample": 2577116,
+    "end_sample": 2584481,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.C4B4.aif",
+    "start_sample": 2649881,
+    "end_sample": 2801012,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.C4B4.aif",
+    "start_sample": 2806436,
+    "end_sample": 2835410,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.C4B4.aif",
+    "start_sample": 2921537,
+    "end_sample": 2986673,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.C4B4.aif",
+    "start_sample": 2992097,
+    "end_sample": 3027686,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.C4B4.aif",
+    "start_sample": 3093527,
+    "end_sample": 3259211,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.C4B4.aif",
+    "start_sample": 3271250,
+    "end_sample": 3282584,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.G3B3.aif",
+    "start_sample": 243785,
+    "end_sample": 258206,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.G3B3.aif",
+    "start_sample": 263630,
+    "end_sample": 283784,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.G3B3.aif",
+    "start_sample": 308171,
+    "end_sample": 328766,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.G3B3.aif",
+    "start_sample": 632747,
+    "end_sample": 666131,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.G3B3.aif",
+    "start_sample": 672437,
+    "end_sample": 692591,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.G3B3.aif",
+    "start_sample": 1048610,
+    "end_sample": 1063472,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.G3B3.aif",
+    "start_sample": 1069337,
+    "end_sample": 1081994,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.G3B3.aif",
+    "start_sample": 1111232,
+    "end_sample": 1119920,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.G3B3.aif",
+    "start_sample": 1461827,
+    "end_sample": 1472279,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.G3B3.aif",
+    "start_sample": 1671743,
+    "end_sample": 1732028,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.G3B3.aif",
+    "start_sample": 1736570,
+    "end_sample": 1786712,
+    "reason": "No stable in-range fundamental"
+  },
+  {
+    "file": "1644mono/Guitar.pp.sulG.G3B3.aif",
+    "start_sample": 1810217,
+    "end_sample": 1818905,
+    "reason": "No stable in-range fundamental"
+  }
+]

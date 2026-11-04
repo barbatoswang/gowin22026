@@ -1,0 +1,2364 @@
+{
+  "passed": true,
+  "banks_checked": 441,
+  "new_banks_pitch_checked": 294,
+  "all_banks_distinct": true,
+  "piano_prefix_byte_identical": true,
+  "max_abs_pitch_error_cents": 14.708545300986723,
+  "finite_last_samples_zero": true,
+  "failures": [],
+  "checks": [
+    {
+      "bank": 147,
+      "note": 36,
+      "frequency_hz": 65.40639132514966,
+      "pitch_error_cents": 0.0,
+      "peak": 20053,
+      "attack_rms": 7655.437937995448
+    },
+    {
+      "bank": 148,
+      "note": 37,
+      "frequency_hz": 69.30397322314732,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 20252,
+      "attack_rms": 7655.4418544574655
+    },
+    {
+      "bank": 149,
+      "note": 38,
+      "frequency_hz": 73.4250019223894,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 20336,
+      "attack_rms": 7655.443174535467
+    },
+    {
+      "bank": 150,
+      "note": 39,
+      "frequency_hz": 77.78174593052023,
+      "pitch_error_cents": 0.0,
+      "peak": 20468,
+      "attack_rms": 7655.4390022511125
+    },
+    {
+      "bank": 151,
+      "note": 40,
+      "frequency_hz": 82.39700040151011,
+      "pitch_error_cents": -0.20776055177026792,
+      "peak": 20657,
+      "attack_rms": 7655.437042397003
+    },
+    {
+      "bank": 152,
+      "note": 41,
+      "frequency_hz": 87.33848839907994,
+      "pitch_error_cents": 0.6231321006143917,
+      "peak": 22937,
+      "attack_rms": 3153.299014293073
+    },
+    {
+      "bank": 153,
+      "note": 42,
+      "frequency_hz": 92.47085609620522,
+      "pitch_error_cents": -0.5194481358369829,
+      "peak": 22937,
+      "attack_rms": 6700.890347667117
+    },
+    {
+      "bank": 154,
+      "note": 43,
+      "frequency_hz": 97.96357940619897,
+      "pitch_error_cents": -0.623356468561882,
+      "peak": 22937,
+      "attack_rms": 6880.989185876246
+    },
+    {
+      "bank": 155,
+      "note": 44,
+      "frequency_hz": 103.82617439498628,
+      "pitch_error_cents": 0.0,
+      "peak": 20226,
+      "attack_rms": 7655.436876998487
+    },
+    {
+      "bank": 156,
+      "note": 45,
+      "frequency_hz": 110.0066,
+      "pitch_error_cents": 0.10387092684727198,
+      "peak": 19095,
+      "attack_rms": 7655.433282078433
+    },
+    {
+      "bank": 157,
+      "note": 46,
+      "frequency_hz": 116.54094037952248,
+      "pitch_error_cents": 0.0,
+      "peak": 20802,
+      "attack_rms": 7655.434509290878
+    },
+    {
+      "bank": 158,
+      "note": 47,
+      "frequency_hz": 123.41896756739914,
+      "pitch_error_cents": -0.7272710382191518,
+      "peak": 22937,
+      "attack_rms": 6200.454163002901
+    },
+    {
+      "bank": 159,
+      "note": 48,
+      "frequency_hz": 130.74214374766814,
+      "pitch_error_cents": -0.935118891326399,
+      "peak": 22937,
+      "attack_rms": 7212.551528000511
+    },
+    {
+      "bank": 160,
+      "note": 49,
+      "frequency_hz": 138.60794644629465,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 21217,
+      "attack_rms": 7655.441335497908
+    },
+    {
+      "bank": 161,
+      "note": 50,
+      "frequency_hz": 146.85000384477883,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 21243,
+      "attack_rms": 7655.434315385868
+    },
+    {
+      "bank": 162,
+      "note": 51,
+      "frequency_hz": 155.63816233713376,
+      "pitch_error_cents": 0.8307929691868983,
+      "peak": 22937,
+      "attack_rms": 6846.189672684726
+    },
+    {
+      "bank": 163,
+      "note": 52,
+      "frequency_hz": 164.7940008030202,
+      "pitch_error_cents": -0.20776055177026792,
+      "peak": 18382,
+      "attack_rms": 7655.435722617296
+    },
+    {
+      "bank": 164,
+      "note": 53,
+      "frequency_hz": 174.67697679815987,
+      "pitch_error_cents": 0.6231321006143917,
+      "peak": 20571,
+      "attack_rms": 7655.43729177722
+    },
+    {
+      "bank": 165,
+      "note": 54,
+      "frequency_hz": 184.94171219241045,
+      "pitch_error_cents": -0.5194481358369829,
+      "peak": 18044,
+      "attack_rms": 7655.430728662768
+    },
+    {
+      "bank": 166,
+      "note": 55,
+      "frequency_hz": 195.92715881239792,
+      "pitch_error_cents": -0.623356468561882,
+      "peak": 21537,
+      "attack_rms": 7655.442383207137
+    },
+    {
+      "bank": 167,
+      "note": 56,
+      "frequency_hz": 207.63988964904516,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 19727,
+      "attack_rms": 7655.440606448081
+    },
+    {
+      "bank": 168,
+      "note": 57,
+      "frequency_hz": 220.0924,
+      "pitch_error_cents": 0.7269656485061533,
+      "peak": 20393,
+      "attack_rms": 7655.435218774578
+    },
+    {
+      "bank": 169,
+      "note": 58,
+      "frequency_hz": 233.05391093335388,
+      "pitch_error_cents": -0.20776055177046016,
+      "peak": 19454,
+      "attack_rms": 7655.438068070468
+    },
+    {
+      "bank": 170,
+      "note": 59,
+      "frequency_hz": 246.83793513479827,
+      "pitch_error_cents": -0.7272710382191518,
+      "peak": 19360,
+      "attack_rms": 7655.438028188688
+    },
+    {
+      "bank": 171,
+      "note": 60,
+      "frequency_hz": 261.6569603684347,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 17917,
+      "attack_rms": 7655.431461591502
+    },
+    {
+      "bank": 172,
+      "note": 61,
+      "frequency_hz": 277.2158928925893,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 22086,
+      "attack_rms": 7655.439829835328
+    },
+    {
+      "bank": 173,
+      "note": 62,
+      "frequency_hz": 293.70000768955765,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 19459,
+      "attack_rms": 7655.44132260539
+    },
+    {
+      "bank": 174,
+      "note": 63,
+      "frequency_hz": 311.1083161030576,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 22937,
+      "attack_rms": 7153.592110225405
+    },
+    {
+      "bank": 175,
+      "note": 64,
+      "frequency_hz": 329.5880016060404,
+      "pitch_error_cents": -0.20776055177026792,
+      "peak": 21591,
+      "attack_rms": 7655.437304132273
+    },
+    {
+      "bank": 176,
+      "note": 65,
+      "frequency_hz": 349.35395359631974,
+      "pitch_error_cents": 0.6231321006143917,
+      "peak": 20351,
+      "attack_rms": 7655.434795409784
+    },
+    {
+      "bank": 177,
+      "note": 66,
+      "frequency_hz": 370.0610217077225,
+      "pitch_error_cents": 0.3115940862056053,
+      "peak": 17339,
+      "attack_rms": 7655.4383254923205
+    },
+    {
+      "bank": 178,
+      "note": 67,
+      "frequency_hz": 391.9719162555904,
+      "pitch_error_cents": -0.10387715928985981,
+      "peak": 22865,
+      "attack_rms": 7655.43312140823
+    },
+    {
+      "bank": 179,
+      "note": 68,
+      "frequency_hz": 415.2797792980903,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 19048,
+      "attack_rms": 7655.4397040192935
+    },
+    {
+      "bank": 180,
+      "note": 69,
+      "frequency_hz": 440.0,
+      "pitch_error_cents": 0.0,
+      "peak": 16421,
+      "attack_rms": 7655.44056697452
+    },
+    {
+      "bank": 181,
+      "note": 70,
+      "frequency_hz": 466.191731343781,
+      "pitch_error_cents": 0.10387092684727198,
+      "peak": 22937,
+      "attack_rms": 6706.564906741255
+    },
+    {
+      "bank": 182,
+      "note": 71,
+      "frequency_hz": 493.9129342541995,
+      "pitch_error_cents": 0.10387092684727198,
+      "peak": 22937,
+      "attack_rms": 6680.926399436496
+    },
+    {
+      "bank": 183,
+      "note": 72,
+      "frequency_hz": 523.3139207368694,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 22937,
+      "attack_rms": 7470.297577190003
+    },
+    {
+      "bank": 184,
+      "note": 73,
+      "frequency_hz": 554.4317857851786,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 16272,
+      "attack_rms": 7655.437517726371
+    },
+    {
+      "bank": 185,
+      "note": 74,
+      "frequency_hz": 587.4000153791153,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 21442,
+      "attack_rms": 7655.443877629936
+    },
+    {
+      "bank": 186,
+      "note": 75,
+      "frequency_hz": 622.1792969680686,
+      "pitch_error_cents": -0.20776055177046016,
+      "peak": 18127,
+      "attack_rms": 7655.437293355619
+    },
+    {
+      "bank": 187,
+      "note": 76,
+      "frequency_hz": 659.1760032120808,
+      "pitch_error_cents": -0.20776055177026792,
+      "peak": 20027,
+      "attack_rms": 7655.439334122993
+    },
+    {
+      "bank": 188,
+      "note": 77,
+      "frequency_hz": 698.3726480904638,
+      "pitch_error_cents": -0.20776055177046016,
+      "peak": 16725,
+      "attack_rms": 7655.439876506934
+    },
+    {
+      "bank": 189,
+      "note": 78,
+      "frequency_hz": 740.0776440847196,
+      "pitch_error_cents": 0.20773562200016626,
+      "peak": 22937,
+      "attack_rms": 5441.828878206986
+    },
+    {
+      "bank": 190,
+      "note": 79,
+      "frequency_hz": 784.0379114158163,
+      "pitch_error_cents": 0.10387092684727198,
+      "peak": 18103,
+      "attack_rms": 7655.435085120897
+    },
+    {
+      "bank": 191,
+      "note": 80,
+      "frequency_hz": 830.5595585961806,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 22937,
+      "attack_rms": 5993.420101470307
+    },
+    {
+      "bank": 192,
+      "note": 81,
+      "frequency_hz": 880.0,
+      "pitch_error_cents": 0.0,
+      "peak": 22937,
+      "attack_rms": 6200.53222803797
+    },
+    {
+      "bank": 193,
+      "note": 82,
+      "frequency_hz": 932.383462687562,
+      "pitch_error_cents": 0.10387092684727198,
+      "peak": 16409,
+      "attack_rms": 7655.436133524932
+    },
+    {
+      "bank": 194,
+      "note": 83,
+      "frequency_hz": 987.825868508399,
+      "pitch_error_cents": 0.10387092684727198,
+      "peak": 20509,
+      "attack_rms": 7655.437093422829
+    },
+    {
+      "bank": 195,
+      "note": 84,
+      "frequency_hz": 1046.5022612023945,
+      "pitch_error_cents": 0.0,
+      "peak": 20617,
+      "attack_rms": 7655.4376424198745
+    },
+    {
+      "bank": 196,
+      "note": 36,
+      "frequency_hz": 65.4260132425472,
+      "pitch_error_cents": 0.5192923247653631,
+      "peak": 20700,
+      "attack_rms": 7655.4323597146795
+    },
+    {
+      "bank": 197,
+      "note": 37,
+      "frequency_hz": 69.30397322314732,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 20859,
+      "attack_rms": 7655.443261218071
+    },
+    {
+      "bank": 198,
+      "note": 38,
+      "frequency_hz": 73.4250019223894,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 21178,
+      "attack_rms": 7655.436342309028
+    },
+    {
+      "bank": 199,
+      "note": 39,
+      "frequency_hz": 77.78641283527607,
+      "pitch_error_cents": 0.10387092684765636,
+      "peak": 21266,
+      "attack_rms": 7655.432661155029
+    },
+    {
+      "bank": 200,
+      "note": 40,
+      "frequency_hz": 82.39700040151011,
+      "pitch_error_cents": -0.20776055177026792,
+      "peak": 21408,
+      "attack_rms": 7655.439544743931
+    },
+    {
+      "bank": 201,
+      "note": 41,
+      "frequency_hz": 87.33848839907994,
+      "pitch_error_cents": 0.6231321006143917,
+      "peak": 22903,
+      "attack_rms": 7655.436794785673
+    },
+    {
+      "bank": 202,
+      "note": 42,
+      "frequency_hz": 92.47085609620522,
+      "pitch_error_cents": -0.5194481358369829,
+      "peak": 21450,
+      "attack_rms": 7655.438172748235
+    },
+    {
+      "bank": 203,
+      "note": 43,
+      "frequency_hz": 97.96357940619897,
+      "pitch_error_cents": -0.623356468561882,
+      "peak": 22243,
+      "attack_rms": 7655.434024259609
+    },
+    {
+      "bank": 204,
+      "note": 44,
+      "frequency_hz": 103.81994482452258,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 18029,
+      "attack_rms": 7655.437200250497
+    },
+    {
+      "bank": 205,
+      "note": 45,
+      "frequency_hz": 109.934,
+      "pitch_error_cents": -1.039052176273934,
+      "peak": 17420,
+      "attack_rms": 7655.442385649571
+    },
+    {
+      "bank": 206,
+      "note": 46,
+      "frequency_hz": 116.45703090244922,
+      "pitch_error_cents": -1.2469374667032709,
+      "peak": 22937,
+      "attack_rms": 6181.314831754716
+    },
+    {
+      "bank": 207,
+      "note": 47,
+      "frequency_hz": 123.41896756739914,
+      "pitch_error_cents": -0.7272710382191518,
+      "peak": 22937,
+      "attack_rms": 7069.445338870005
+    },
+    {
+      "bank": 208,
+      "note": 48,
+      "frequency_hz": 130.82848018421734,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 22937,
+      "attack_rms": 6971.784269669602
+    },
+    {
+      "bank": 209,
+      "note": 49,
+      "frequency_hz": 138.60794644629465,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 21512,
+      "attack_rms": 7655.436817407123
+    },
+    {
+      "bank": 210,
+      "note": 50,
+      "frequency_hz": 146.85000384477883,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 22937,
+      "attack_rms": 7460.229071228868
+    },
+    {
+      "bank": 211,
+      "note": 51,
+      "frequency_hz": 155.63816233713376,
+      "pitch_error_cents": 0.8307929691868983,
+      "peak": 18510,
+      "attack_rms": 7655.438672297787
+    },
+    {
+      "bank": 212,
+      "note": 52,
+      "frequency_hz": 164.7940008030202,
+      "pitch_error_cents": -0.20776055177026792,
+      "peak": 22937,
+      "attack_rms": 5489.1690604752885
+    },
+    {
+      "bank": 213,
+      "note": 53,
+      "frequency_hz": 174.67697679815987,
+      "pitch_error_cents": 0.6231321006143917,
+      "peak": 21038,
+      "attack_rms": 7655.435983522591
+    },
+    {
+      "bank": 214,
+      "note": 54,
+      "frequency_hz": 184.94171219241045,
+      "pitch_error_cents": -0.5194481358369829,
+      "peak": 19273,
+      "attack_rms": 7655.433910097781
+    },
+    {
+      "bank": 215,
+      "note": 55,
+      "frequency_hz": 195.92715881239792,
+      "pitch_error_cents": -0.623356468561882,
+      "peak": 20151,
+      "attack_rms": 7655.437821506902
+    },
+    {
+      "bank": 216,
+      "note": 56,
+      "frequency_hz": 207.63988964904516,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 18773,
+      "attack_rms": 7655.435165224661
+    },
+    {
+      "bank": 217,
+      "note": 57,
+      "frequency_hz": 220.0,
+      "pitch_error_cents": 0.0,
+      "peak": 19114,
+      "attack_rms": 7655.433893796724
+    },
+    {
+      "bank": 218,
+      "note": 58,
+      "frequency_hz": 233.0958656718905,
+      "pitch_error_cents": 0.10387092684727198,
+      "peak": 20851,
+      "attack_rms": 7655.437390774122
+    },
+    {
+      "bank": 219,
+      "note": 59,
+      "frequency_hz": 247.0009166242128,
+      "pitch_error_cents": 0.4154463202115303,
+      "peak": 18190,
+      "attack_rms": 7655.442048287447
+    },
+    {
+      "bank": 220,
+      "note": 60,
+      "frequency_hz": 261.60986776668057,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 22468,
+      "attack_rms": 7655.436685978197
+    },
+    {
+      "bank": 221,
+      "note": 61,
+      "frequency_hz": 277.2158928925893,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 22937,
+      "attack_rms": 6994.247998623583
+    },
+    {
+      "bank": 222,
+      "note": 62,
+      "frequency_hz": 293.70000768955765,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 22937,
+      "attack_rms": 6946.429004014401
+    },
+    {
+      "bank": 223,
+      "note": 63,
+      "frequency_hz": 311.0896484840343,
+      "pitch_error_cents": -0.20776055177046016,
+      "peak": 22937,
+      "attack_rms": 6365.287456334618
+    },
+    {
+      "bank": 224,
+      "note": 64,
+      "frequency_hz": 329.5880016060404,
+      "pitch_error_cents": -0.20776055177026792,
+      "peak": 22937,
+      "attack_rms": 5350.914572051756
+    },
+    {
+      "bank": 225,
+      "note": 65,
+      "frequency_hz": 349.24918512688987,
+      "pitch_error_cents": 0.10387092684727198,
+      "peak": 22937,
+      "attack_rms": 5903.97726157616
+    },
+    {
+      "bank": 226,
+      "note": 66,
+      "frequency_hz": 369.9944227116344,
+      "pitch_error_cents": 0.0,
+      "peak": 22937,
+      "attack_rms": 6899.927007637774
+    },
+    {
+      "bank": 227,
+      "note": 67,
+      "frequency_hz": 391.9719162555904,
+      "pitch_error_cents": -0.10387715928985981,
+      "peak": 21308,
+      "attack_rms": 7655.436453109918
+    },
+    {
+      "bank": 228,
+      "note": 68,
+      "frequency_hz": 415.2797792980903,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 19061,
+      "attack_rms": 7655.441196367566
+    },
+    {
+      "bank": 229,
+      "note": 69,
+      "frequency_hz": 440.0,
+      "pitch_error_cents": 0.0,
+      "peak": 22937,
+      "attack_rms": 4324.126073217955
+    },
+    {
+      "bank": 230,
+      "note": 70,
+      "frequency_hz": 466.191731343781,
+      "pitch_error_cents": 0.10387092684727198,
+      "peak": 22937,
+      "attack_rms": 6164.735932216265
+    },
+    {
+      "bank": 231,
+      "note": 71,
+      "frequency_hz": 494.0018332484256,
+      "pitch_error_cents": 0.4154463202115303,
+      "peak": 22937,
+      "attack_rms": 5782.197016120184
+    },
+    {
+      "bank": 232,
+      "note": 72,
+      "frequency_hz": 523.3139207368694,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 22937,
+      "attack_rms": 5224.085498937429
+    },
+    {
+      "bank": 233,
+      "note": 73,
+      "frequency_hz": 554.4317857851786,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 22937,
+      "attack_rms": 6412.152360735954
+    },
+    {
+      "bank": 234,
+      "note": 74,
+      "frequency_hz": 587.4000153791153,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 21789,
+      "attack_rms": 7655.4382981152685
+    },
+    {
+      "bank": 235,
+      "note": 75,
+      "frequency_hz": 622.2166322061152,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 22937,
+      "attack_rms": 6265.054491757234
+    },
+    {
+      "bank": 236,
+      "note": 76,
+      "frequency_hz": 659.1760032120808,
+      "pitch_error_cents": -0.20776055177026792,
+      "peak": 22937,
+      "attack_rms": 4826.76500854437
+    },
+    {
+      "bank": 237,
+      "note": 77,
+      "frequency_hz": 698.3726480904638,
+      "pitch_error_cents": -0.20776055177046016,
+      "peak": 22937,
+      "attack_rms": 5711.396682866854
+    },
+    {
+      "bank": 238,
+      "note": 78,
+      "frequency_hz": 740.122043415445,
+      "pitch_error_cents": 0.3115940862056053,
+      "peak": 22937,
+      "attack_rms": 6189.6411071745515
+    },
+    {
+      "bank": 239,
+      "note": 79,
+      "frequency_hz": 784.0379114158163,
+      "pitch_error_cents": 0.10387092684727198,
+      "peak": 22937,
+      "attack_rms": 6217.816422721619
+    },
+    {
+      "bank": 240,
+      "note": 80,
+      "frequency_hz": 830.6093951598903,
+      "pitch_error_cents": 0.0,
+      "peak": 22937,
+      "attack_rms": 5437.608728788403
+    },
+    {
+      "bank": 241,
+      "note": 81,
+      "frequency_hz": 880.0,
+      "pitch_error_cents": 0.0,
+      "peak": 22937,
+      "attack_rms": 5174.128950837603
+    },
+    {
+      "bank": 242,
+      "note": 82,
+      "frequency_hz": 932.383462687562,
+      "pitch_error_cents": 0.10387092684727198,
+      "peak": 22937,
+      "attack_rms": 5328.5547565588395
+    },
+    {
+      "bank": 243,
+      "note": 83,
+      "frequency_hz": 987.7073365160975,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 22937,
+      "attack_rms": 4473.448775891016
+    },
+    {
+      "bank": 244,
+      "note": 84,
+      "frequency_hz": 1046.4394710667223,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 22937,
+      "attack_rms": 4645.2226912554115
+    },
+    {
+      "bank": 245,
+      "note": 36,
+      "frequency_hz": 65.4299376260267,
+      "pitch_error_cents": 0.6231321006143917,
+      "peak": 22937,
+      "attack_rms": 7591.675494545269
+    },
+    {
+      "bank": 246,
+      "note": 37,
+      "frequency_hz": 69.33723513886454,
+      "pitch_error_cents": 1.0384289319038937,
+      "peak": 22937,
+      "attack_rms": 7624.467437747428
+    },
+    {
+      "bank": 247,
+      "note": 38,
+      "frequency_hz": 73.4250019223894,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 22937,
+      "attack_rms": 7619.538624764024
+    },
+    {
+      "bank": 248,
+      "note": 39,
+      "frequency_hz": 77.78641283527607,
+      "pitch_error_cents": 0.10387092684765636,
+      "peak": 22937,
+      "attack_rms": 7625.028054354128
+    },
+    {
+      "bank": 249,
+      "note": 40,
+      "frequency_hz": 82.39700040151011,
+      "pitch_error_cents": -0.20776055177026792,
+      "peak": 22937,
+      "attack_rms": 7561.039003613635
+    },
+    {
+      "bank": 250,
+      "note": 41,
+      "frequency_hz": 87.33848839907994,
+      "pitch_error_cents": 0.6231321006143917,
+      "peak": 20652,
+      "attack_rms": 7655.436066653878
+    },
+    {
+      "bank": 251,
+      "note": 42,
+      "frequency_hz": 92.50415559424927,
+      "pitch_error_cents": 0.10387092684727198,
+      "peak": 22937,
+      "attack_rms": 7598.271908994889
+    },
+    {
+      "bank": 252,
+      "note": 43,
+      "frequency_hz": 97.96357940619897,
+      "pitch_error_cents": -0.623356468561882,
+      "peak": 22937,
+      "attack_rms": 6356.926735656153
+    },
+    {
+      "bank": 253,
+      "note": 44,
+      "frequency_hz": 103.81994482452258,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 22147,
+      "attack_rms": 7655.432855522715
+    },
+    {
+      "bank": 254,
+      "note": 45,
+      "frequency_hz": 109.9868,
+      "pitch_error_cents": -0.20776055177046016,
+      "peak": 20334,
+      "attack_rms": 7655.441117359219
+    },
+    {
+      "bank": 255,
+      "note": 46,
+      "frequency_hz": 116.45703090244922,
+      "pitch_error_cents": -1.2469374667032709,
+      "peak": 22937,
+      "attack_rms": 6773.739861859609
+    },
+    {
+      "bank": 256,
+      "note": 47,
+      "frequency_hz": 123.49305006258756,
+      "pitch_error_cents": 0.3115940862056053,
+      "peak": 22937,
+      "attack_rms": 6664.8239018293525
+    },
+    {
+      "bank": 257,
+      "note": 48,
+      "frequency_hz": 130.8598752520534,
+      "pitch_error_cents": 0.6231321006143917,
+      "peak": 22937,
+      "attack_rms": 7416.159906631542
+    },
+    {
+      "bank": 258,
+      "note": 49,
+      "frequency_hz": 138.5497380937895,
+      "pitch_error_cents": -0.5194481358369829,
+      "peak": 22937,
+      "attack_rms": 7547.603849939727
+    },
+    {
+      "bank": 259,
+      "note": 50,
+      "frequency_hz": 146.85000384477883,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 20829,
+      "attack_rms": 7655.432804932281
+    },
+    {
+      "bank": 260,
+      "note": 51,
+      "frequency_hz": 155.63816233713376,
+      "pitch_error_cents": 0.8307929691868983,
+      "peak": 22937,
+      "attack_rms": 6811.606390351936
+    },
+    {
+      "bank": 261,
+      "note": 52,
+      "frequency_hz": 164.7940008030202,
+      "pitch_error_cents": -0.20776055177026792,
+      "peak": 22937,
+      "attack_rms": 7313.711640352603
+    },
+    {
+      "bank": 262,
+      "note": 53,
+      "frequency_hz": 174.67697679815987,
+      "pitch_error_cents": 0.6231321006143917,
+      "peak": 17285,
+      "attack_rms": 7655.437119160255
+    },
+    {
+      "bank": 263,
+      "note": 54,
+      "frequency_hz": 184.94171219241045,
+      "pitch_error_cents": -0.5194481358369829,
+      "peak": 19227,
+      "attack_rms": 7655.434280559029
+    },
+    {
+      "bank": 264,
+      "note": 55,
+      "frequency_hz": 196.04475744319245,
+      "pitch_error_cents": 0.4154463202115303,
+      "peak": 22937,
+      "attack_rms": 6586.748385616128
+    },
+    {
+      "bank": 265,
+      "note": 56,
+      "frequency_hz": 207.63988964904516,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 21043,
+      "attack_rms": 7655.434689337264
+    },
+    {
+      "bank": 266,
+      "note": 57,
+      "frequency_hz": 220.0,
+      "pitch_error_cents": 0.0,
+      "peak": 17994,
+      "attack_rms": 7655.433205097432
+    },
+    {
+      "bank": 267,
+      "note": 58,
+      "frequency_hz": 233.0958656718905,
+      "pitch_error_cents": 0.10387092684727198,
+      "peak": 19008,
+      "attack_rms": 7655.429111094949
+    },
+    {
+      "bank": 268,
+      "note": 59,
+      "frequency_hz": 247.0749991194012,
+      "pitch_error_cents": 0.9346140634038951,
+      "peak": 18453,
+      "attack_rms": 7655.432063560597
+    },
+    {
+      "bank": 269,
+      "note": 60,
+      "frequency_hz": 261.8296332415331,
+      "pitch_error_cents": 1.349836190567771,
+      "peak": 16986,
+      "attack_rms": 7655.437334047013
+    },
+    {
+      "bank": 270,
+      "note": 61,
+      "frequency_hz": 277.2158928925893,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 22937,
+      "attack_rms": 4496.096981700258
+    },
+    {
+      "bank": 271,
+      "note": 62,
+      "frequency_hz": 293.70000768955765,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 17829,
+      "attack_rms": 7655.4395287898615
+    },
+    {
+      "bank": 272,
+      "note": 63,
+      "frequency_hz": 311.16431896012756,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 22937,
+      "attack_rms": 3386.977030387865
+    },
+    {
+      "bank": 273,
+      "note": 64,
+      "frequency_hz": 329.5880016060404,
+      "pitch_error_cents": -0.20776055177026792,
+      "peak": 21341,
+      "attack_rms": 7655.433087105251
+    },
+    {
+      "bank": 274,
+      "note": 65,
+      "frequency_hz": 349.29109251466184,
+      "pitch_error_cents": 0.3115940862056053,
+      "peak": 22937,
+      "attack_rms": 3145.3207437630003
+    },
+    {
+      "bank": 275,
+      "note": 66,
+      "frequency_hz": 369.9944227116344,
+      "pitch_error_cents": 0.0,
+      "peak": 22937,
+      "attack_rms": 5804.157969947421
+    },
+    {
+      "bank": 276,
+      "note": 67,
+      "frequency_hz": 391.85431762479584,
+      "pitch_error_cents": -0.623356468561882,
+      "peak": 22937,
+      "attack_rms": 6692.665476163689
+    },
+    {
+      "bank": 277,
+      "note": 68,
+      "frequency_hz": 415.2797792980903,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 14455,
+      "attack_rms": 7655.435704288816
+    },
+    {
+      "bank": 278,
+      "note": 69,
+      "frequency_hz": 440.0,
+      "pitch_error_cents": 0.0,
+      "peak": 22937,
+      "attack_rms": 3036.4427661979457
+    },
+    {
+      "bank": 279,
+      "note": 70,
+      "frequency_hz": 466.191731343781,
+      "pitch_error_cents": 0.10387092684727198,
+      "peak": 22937,
+      "attack_rms": 5475.0914651511375
+    },
+    {
+      "bank": 280,
+      "note": 71,
+      "frequency_hz": 494.0018332484256,
+      "pitch_error_cents": 0.4154463202115303,
+      "peak": 22937,
+      "attack_rms": 5972.278377350012
+    },
+    {
+      "bank": 281,
+      "note": 72,
+      "frequency_hz": 523.3139207368694,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 22937,
+      "attack_rms": 4863.937444205654
+    },
+    {
+      "bank": 282,
+      "note": 73,
+      "frequency_hz": 554.4317857851786,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 22937,
+      "attack_rms": 6309.859174603926
+    },
+    {
+      "bank": 283,
+      "note": 74,
+      "frequency_hz": 587.4000153791153,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 22937,
+      "attack_rms": 3267.5428238873164
+    },
+    {
+      "bank": 284,
+      "note": 75,
+      "frequency_hz": 622.2166322061152,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 22937,
+      "attack_rms": 2788.555572652414
+    },
+    {
+      "bank": 285,
+      "note": 76,
+      "frequency_hz": 659.1760032120808,
+      "pitch_error_cents": -0.20776055177026792,
+      "peak": 22937,
+      "attack_rms": 5517.478537698024
+    },
+    {
+      "bank": 286,
+      "note": 77,
+      "frequency_hz": 698.3726480904638,
+      "pitch_error_cents": -0.20776055177046016,
+      "peak": 22937,
+      "attack_rms": 4033.2937692489622
+    },
+    {
+      "bank": 287,
+      "note": 78,
+      "frequency_hz": 740.122043415445,
+      "pitch_error_cents": 0.3115940862056053,
+      "peak": 22937,
+      "attack_rms": 3936.185798738101
+    },
+    {
+      "bank": 288,
+      "note": 79,
+      "frequency_hz": 784.0379114158163,
+      "pitch_error_cents": 0.10387092684727198,
+      "peak": 22937,
+      "attack_rms": 3805.800136811465
+    },
+    {
+      "bank": 289,
+      "note": 80,
+      "frequency_hz": 830.5595585961806,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 22937,
+      "attack_rms": 4856.975297799804
+    },
+    {
+      "bank": 290,
+      "note": 81,
+      "frequency_hz": 880.0,
+      "pitch_error_cents": 0.0,
+      "peak": 22937,
+      "attack_rms": 5985.561203064003
+    },
+    {
+      "bank": 291,
+      "note": 82,
+      "frequency_hz": 932.383462687562,
+      "pitch_error_cents": 0.10387092684727198,
+      "peak": 22937,
+      "attack_rms": 6570.675346932891
+    },
+    {
+      "bank": 292,
+      "note": 83,
+      "frequency_hz": 988.0036664968512,
+      "pitch_error_cents": 0.4154463202115303,
+      "peak": 22937,
+      "attack_rms": 6409.626107757768
+    },
+    {
+      "bank": 293,
+      "note": 84,
+      "frequency_hz": 1046.6278414737387,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 22937,
+      "attack_rms": 6231.548141597052
+    },
+    {
+      "bank": 294,
+      "note": 36,
+      "frequency_hz": 65.36714749035457,
+      "pitch_error_cents": -1.0390521762737417,
+      "peak": 22937,
+      "attack_rms": 1265.1997190825907
+    },
+    {
+      "bank": 295,
+      "note": 37,
+      "frequency_hz": 69.21666069438962,
+      "pitch_error_cents": -1.9747326275191812,
+      "peak": 22937,
+      "attack_rms": 1351.7938398353008
+    },
+    {
+      "bank": 296,
+      "note": 38,
+      "frequency_hz": 73.36333232112675,
+      "pitch_error_cents": -1.2469374667030786,
+      "peak": 22937,
+      "attack_rms": 1432.1869276855355
+    },
+    {
+      "bank": 297,
+      "note": 39,
+      "frequency_hz": 77.73040997820608,
+      "pitch_error_cents": -1.1429917011499167,
+      "peak": 22937,
+      "attack_rms": 1529.2230558290594
+    },
+    {
+      "bank": 298,
+      "note": 40,
+      "frequency_hz": 82.39700040151011,
+      "pitch_error_cents": -0.20776055177026792,
+      "peak": 22937,
+      "attack_rms": 1612.8679046383495
+    },
+    {
+      "bank": 299,
+      "note": 41,
+      "frequency_hz": 87.24943520006453,
+      "pitch_error_cents": -1.1429917011497244,
+      "peak": 22937,
+      "attack_rms": 1690.145870399702
+    },
+    {
+      "bank": 300,
+      "note": 42,
+      "frequency_hz": 92.46530617986456,
+      "pitch_error_cents": -0.623356468561882,
+      "peak": 22937,
+      "attack_rms": 1794.2680361129624
+    },
+    {
+      "bank": 301,
+      "note": 43,
+      "frequency_hz": 97.95769947465925,
+      "pitch_error_cents": -0.7272710382191518,
+      "peak": 22937,
+      "attack_rms": 1870.567957143409
+    },
+    {
+      "bank": 302,
+      "note": 44,
+      "frequency_hz": 103.7825674017404,
+      "pitch_error_cents": -0.7272710382191518,
+      "peak": 22937,
+      "attack_rms": 1956.9727893430625
+    },
+    {
+      "bank": 303,
+      "note": 45,
+      "frequency_hz": 109.96039999999999,
+      "pitch_error_cents": -0.623356468561882,
+      "peak": 22937,
+      "attack_rms": 2029.2487557232027
+    },
+    {
+      "bank": 304,
+      "note": 46,
+      "frequency_hz": 116.52695546667694,
+      "pitch_error_cents": -0.20776055177046016,
+      "peak": 22937,
+      "attack_rms": 2081.7177324267573
+    },
+    {
+      "bank": 305,
+      "note": 47,
+      "frequency_hz": 123.41896756739914,
+      "pitch_error_cents": -0.7272710382191518,
+      "peak": 22937,
+      "attack_rms": 2169.7166511916557
+    },
+    {
+      "bank": 306,
+      "note": 48,
+      "frequency_hz": 130.8127826502993,
+      "pitch_error_cents": 0.0,
+      "peak": 22937,
+      "attack_rms": 2212.1751079019114
+    },
+    {
+      "bank": 307,
+      "note": 49,
+      "frequency_hz": 138.60794644629465,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 22937,
+      "attack_rms": 2271.1053673220817
+    },
+    {
+      "bank": 308,
+      "note": 50,
+      "frequency_hz": 146.85000384477883,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 22937,
+      "attack_rms": 3751.1685231071665
+    },
+    {
+      "bank": 309,
+      "note": 51,
+      "frequency_hz": 155.56349186104046,
+      "pitch_error_cents": 0.0,
+      "peak": 22937,
+      "attack_rms": 1500.2483561411311
+    },
+    {
+      "bank": 310,
+      "note": 52,
+      "frequency_hz": 164.7940008030202,
+      "pitch_error_cents": -0.20776055177026792,
+      "peak": 22937,
+      "attack_rms": 2635.6766915530125
+    },
+    {
+      "bank": 311,
+      "note": 53,
+      "frequency_hz": 174.67697679815987,
+      "pitch_error_cents": 0.6231321006143917,
+      "peak": 22937,
+      "attack_rms": 3059.155822809483
+    },
+    {
+      "bank": 312,
+      "note": 54,
+      "frequency_hz": 184.94171219241045,
+      "pitch_error_cents": -0.5194481358369829,
+      "peak": 22937,
+      "attack_rms": 958.2972747926397
+    },
+    {
+      "bank": 313,
+      "note": 55,
+      "frequency_hz": 195.92715881239792,
+      "pitch_error_cents": -0.623356468561882,
+      "peak": 22937,
+      "attack_rms": 679.5599446976698
+    },
+    {
+      "bank": 314,
+      "note": 56,
+      "frequency_hz": 207.63988964904516,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 22937,
+      "attack_rms": 4895.163019363689
+    },
+    {
+      "bank": 315,
+      "note": 57,
+      "frequency_hz": 220.0264,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 22937,
+      "attack_rms": 4822.365965909957
+    },
+    {
+      "bank": 316,
+      "note": 58,
+      "frequency_hz": 232.91406180489844,
+      "pitch_error_cents": -1.2469374667032709,
+      "peak": 22937,
+      "attack_rms": 2184.910981810815
+    },
+    {
+      "bank": 317,
+      "note": 59,
+      "frequency_hz": 246.83793513479827,
+      "pitch_error_cents": -0.7272710382191518,
+      "peak": 22937,
+      "attack_rms": 2990.854122901879
+    },
+    {
+      "bank": 318,
+      "note": 60,
+      "frequency_hz": 261.6569603684347,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 22937,
+      "attack_rms": 4049.2909536732477
+    },
+    {
+      "bank": 319,
+      "note": 61,
+      "frequency_hz": 277.23252385044793,
+      "pitch_error_cents": 0.3115940862056053,
+      "peak": 14217,
+      "attack_rms": 7655.437900365607
+    },
+    {
+      "bank": 320,
+      "note": 62,
+      "frequency_hz": 293.70000768955765,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 22852,
+      "attack_rms": 4694.77124492637
+    },
+    {
+      "bank": 321,
+      "note": 63,
+      "frequency_hz": 311.16431896012756,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 19970,
+      "attack_rms": 7655.439023525474
+    },
+    {
+      "bank": 322,
+      "note": 64,
+      "frequency_hz": 329.66711221969945,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 16244,
+      "attack_rms": 7655.434394911347
+    },
+    {
+      "bank": 323,
+      "note": 65,
+      "frequency_hz": 349.35395359631974,
+      "pitch_error_cents": 0.6231321006143917,
+      "peak": 22937,
+      "attack_rms": 6128.276603547145
+    },
+    {
+      "bank": 324,
+      "note": 66,
+      "frequency_hz": 369.8834243848209,
+      "pitch_error_cents": -0.5194481358369829,
+      "peak": 22937,
+      "attack_rms": 7650.377864775973
+    },
+    {
+      "bank": 325,
+      "note": 67,
+      "frequency_hz": 392.01895570790816,
+      "pitch_error_cents": 0.10387092684727198,
+      "peak": 21318,
+      "attack_rms": 7655.4372737004705
+    },
+    {
+      "bank": 326,
+      "note": 68,
+      "frequency_hz": 415.2797792980903,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 22937,
+      "attack_rms": 6685.653662600987
+    },
+    {
+      "bank": 327,
+      "note": 69,
+      "frequency_hz": 440.0,
+      "pitch_error_cents": 0.0,
+      "peak": 22937,
+      "attack_rms": 4474.698604678122
+    },
+    {
+      "bank": 328,
+      "note": 70,
+      "frequency_hz": 466.191731343781,
+      "pitch_error_cents": 0.10387092684727198,
+      "peak": 17542,
+      "attack_rms": 7655.436669663538
+    },
+    {
+      "bank": 329,
+      "note": 71,
+      "frequency_hz": 493.85366825804874,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 15434,
+      "attack_rms": 7655.43362865281
+    },
+    {
+      "bank": 330,
+      "note": 72,
+      "frequency_hz": 523.3139207368694,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 15203,
+      "attack_rms": 7655.433080424266
+    },
+    {
+      "bank": 331,
+      "note": 73,
+      "frequency_hz": 554.198952375158,
+      "pitch_error_cents": -0.5194481358369829,
+      "peak": 22937,
+      "attack_rms": 754.7231817306705
+    },
+    {
+      "bank": 332,
+      "note": 74,
+      "frequency_hz": 587.294296062665,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 22937,
+      "attack_rms": 733.5318637989309
+    },
+    {
+      "bank": 333,
+      "note": 75,
+      "frequency_hz": 622.2166322061152,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 22937,
+      "attack_rms": 715.7617462506873
+    },
+    {
+      "bank": 334,
+      "note": 76,
+      "frequency_hz": 659.1760032120808,
+      "pitch_error_cents": -0.20776055177026792,
+      "peak": 22012,
+      "attack_rms": 7655.436714981278
+    },
+    {
+      "bank": 335,
+      "note": 77,
+      "frequency_hz": 698.3726480904638,
+      "pitch_error_cents": -0.20776055177046016,
+      "peak": 22937,
+      "attack_rms": 928.6158176397995
+    },
+    {
+      "bank": 336,
+      "note": 78,
+      "frequency_hz": 740.0776440847196,
+      "pitch_error_cents": 0.20773562200016626,
+      "peak": 22937,
+      "attack_rms": 962.2821644186976
+    },
+    {
+      "bank": 337,
+      "note": 79,
+      "frequency_hz": 778.8635716608572,
+      "pitch_error_cents": -11.35945672585009,
+      "peak": 22937,
+      "attack_rms": 1114.126451109792
+    },
+    {
+      "bank": 338,
+      "note": 80,
+      "frequency_hz": 823.7817859316759,
+      "pitch_error_cents": -14.289554745953623,
+      "peak": 22937,
+      "attack_rms": 1090.985416091801
+    },
+    {
+      "bank": 339,
+      "note": 81,
+      "frequency_hz": 872.6608,
+      "pitch_error_cents": -14.499037348040408,
+      "peak": 22937,
+      "attack_rms": 1075.7952508590254
+    },
+    {
+      "bank": 340,
+      "note": 82,
+      "frequency_hz": 924.4400321912938,
+      "pitch_error_cents": -14.708545300986723,
+      "peak": 22937,
+      "attack_rms": 1059.6966555438557
+    },
+    {
+      "bank": 341,
+      "note": 83,
+      "frequency_hz": 979.4100970549946,
+      "pitch_error_cents": -14.708545300986723,
+      "peak": 22937,
+      "attack_rms": 1030.0641275041246
+    },
+    {
+      "bank": 342,
+      "note": 84,
+      "frequency_hz": 1037.7116422082943,
+      "pitch_error_cents": -14.603788155272742,
+      "peak": 22937,
+      "attack_rms": 1010.2125469940307
+    },
+    {
+      "bank": 343,
+      "note": 36,
+      "frequency_hz": 65.18662585029715,
+      "pitch_error_cents": -5.826740820469569,
+      "peak": 22937,
+      "attack_rms": 3779.2277769820253
+    },
+    {
+      "bank": 344,
+      "note": 37,
+      "frequency_hz": 69.12103268670259,
+      "pitch_error_cents": -4.368216070474259,
+      "peak": 22937,
+      "attack_rms": 4003.378264366754
+    },
+    {
+      "bank": 345,
+      "note": 38,
+      "frequency_hz": 73.23999311860143,
+      "pitch_error_cents": -4.159955663735317,
+      "peak": 22937,
+      "attack_rms": 4234.817690020237
+    },
+    {
+      "bank": 346,
+      "note": 39,
+      "frequency_hz": 77.63707188308946,
+      "pitch_error_cents": -3.2230937385240632,
+      "peak": 22937,
+      "attack_rms": 4260.088055843643
+    },
+    {
+      "bank": 347,
+      "note": 40,
+      "frequency_hz": 82.21405710742347,
+      "pitch_error_cents": -4.055834854441679,
+      "peak": 22937,
+      "attack_rms": 4444.676936176483
+    },
+    {
+      "bank": 348,
+      "note": 41,
+      "frequency_hz": 87.15514357757762,
+      "pitch_error_cents": -3.0149710315132197,
+      "peak": 22937,
+      "attack_rms": 4632.700358772048
+    },
+    {
+      "bank": 349,
+      "note": 42,
+      "frequency_hz": 92.28770885696296,
+      "pitch_error_cents": -3.951720306861738,
+      "peak": 22937,
+      "attack_rms": 4787.036458477381
+    },
+    {
+      "bank": 350,
+      "note": 43,
+      "frequency_hz": 97.85186070694418,
+      "pitch_error_cents": -2.598800661737271,
+      "peak": 22937,
+      "attack_rms": 4966.241053436022
+    },
+    {
+      "bank": 351,
+      "note": 44,
+      "frequency_hz": 103.63928728107531,
+      "pitch_error_cents": -3.119029257548492,
+      "peak": 22937,
+      "attack_rms": 5210.485152505395
+    },
+    {
+      "bank": 352,
+      "note": 45,
+      "frequency_hz": 109.8614,
+      "pitch_error_cents": -2.182730310877134,
+      "peak": 22937,
+      "attack_rms": 5324.497645504143
+    },
+    {
+      "bank": 353,
+      "note": 46,
+      "frequency_hz": 116.45703090244922,
+      "pitch_error_cents": -1.2469374667032709,
+      "peak": 22937,
+      "attack_rms": 5414.94937089674
+    },
+    {
+      "bank": 354,
+      "note": 47,
+      "frequency_hz": 123.41155931788029,
+      "pitch_error_cents": -0.8311918455577537,
+      "peak": 22937,
+      "attack_rms": 5565.559095641995
+    },
+    {
+      "bank": 355,
+      "note": 48,
+      "frequency_hz": 130.74214374766814,
+      "pitch_error_cents": -0.935118891326399,
+      "peak": 22937,
+      "attack_rms": 5661.014610731601
+    },
+    {
+      "bank": 356,
+      "note": 49,
+      "frequency_hz": 138.57468453057743,
+      "pitch_error_cents": -0.20776055177046016,
+      "peak": 22937,
+      "attack_rms": 5779.894165202119
+    },
+    {
+      "bank": 357,
+      "note": 50,
+      "frequency_hz": 146.85000384477883,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 22937,
+      "attack_rms": 5418.894694867441
+    },
+    {
+      "bank": 358,
+      "note": 51,
+      "frequency_hz": 155.54482424201714,
+      "pitch_error_cents": -0.20776055177046016,
+      "peak": 22937,
+      "attack_rms": 6842.312398117869
+    },
+    {
+      "bank": 359,
+      "note": 52,
+      "frequency_hz": 164.7940008030202,
+      "pitch_error_cents": -0.20776055177026792,
+      "peak": 22937,
+      "attack_rms": 5857.778058096489
+    },
+    {
+      "bank": 360,
+      "note": 53,
+      "frequency_hz": 174.56173148178698,
+      "pitch_error_cents": -0.5194481358369829,
+      "peak": 22937,
+      "attack_rms": 4281.5812217981065
+    },
+    {
+      "bank": 361,
+      "note": 54,
+      "frequency_hz": 185.00831118849854,
+      "pitch_error_cents": 0.10387092684727198,
+      "peak": 22937,
+      "attack_rms": 6102.282001969632
+    },
+    {
+      "bank": 362,
+      "note": 55,
+      "frequency_hz": 195.92715881239792,
+      "pitch_error_cents": -0.623356468561882,
+      "peak": 22937,
+      "attack_rms": 6947.831964001432
+    },
+    {
+      "bank": 363,
+      "note": 56,
+      "frequency_hz": 207.63988964904516,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 22937,
+      "attack_rms": 6301.681851093074
+    },
+    {
+      "bank": 364,
+      "note": 57,
+      "frequency_hz": 220.0264,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 22937,
+      "attack_rms": 6695.180472875619
+    },
+    {
+      "bank": 365,
+      "note": 58,
+      "frequency_hz": 233.0958656718905,
+      "pitch_error_cents": 0.10387092684727198,
+      "peak": 22937,
+      "attack_rms": 7384.42097848572
+    },
+    {
+      "bank": 366,
+      "note": 59,
+      "frequency_hz": 246.94165062806206,
+      "pitch_error_cents": 0.0,
+      "peak": 19595,
+      "attack_rms": 7655.440620884981
+    },
+    {
+      "bank": 367,
+      "note": 60,
+      "frequency_hz": 261.54707763100845,
+      "pitch_error_cents": -0.5194481358367906,
+      "peak": 18183,
+      "attack_rms": 7655.43264750051
+    },
+    {
+      "bank": 368,
+      "note": 61,
+      "frequency_hz": 277.2158928925893,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 15207,
+      "attack_rms": 7655.4369359027005
+    },
+    {
+      "bank": 369,
+      "note": 62,
+      "frequency_hz": 293.70000768955765,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 18117,
+      "attack_rms": 7655.435200983568
+    },
+    {
+      "bank": 370,
+      "note": 63,
+      "frequency_hz": 311.07098086501094,
+      "pitch_error_cents": -0.31165017818970386,
+      "peak": 16786,
+      "attack_rms": 7655.437780978793
+    },
+    {
+      "bank": 371,
+      "note": 64,
+      "frequency_hz": 329.6077792594551,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 16345,
+      "attack_rms": 7655.430306733254
+    },
+    {
+      "bank": 372,
+      "note": 65,
+      "frequency_hz": 349.12346296357396,
+      "pitch_error_cents": -0.5194481358369829,
+      "peak": 17523,
+      "attack_rms": 7655.443088043358
+    },
+    {
+      "bank": 373,
+      "note": 66,
+      "frequency_hz": 369.8834243848209,
+      "pitch_error_cents": -0.5194481358369829,
+      "peak": 18566,
+      "attack_rms": 7655.434388890298
+    },
+    {
+      "bank": 374,
+      "note": 67,
+      "frequency_hz": 391.9248768032725,
+      "pitch_error_cents": -0.31165017818970386,
+      "peak": 17678,
+      "attack_rms": 7655.436112692786
+    },
+    {
+      "bank": 375,
+      "note": 68,
+      "frequency_hz": 415.2797792980903,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 19173,
+      "attack_rms": 7655.4374372756565
+    },
+    {
+      "bank": 376,
+      "note": 69,
+      "frequency_hz": 439.9208,
+      "pitch_error_cents": -0.31165017818970386,
+      "peak": 18057,
+      "attack_rms": 7655.433262974354
+    },
+    {
+      "bank": 377,
+      "note": 70,
+      "frequency_hz": 466.191731343781,
+      "pitch_error_cents": 0.10387092684727198,
+      "peak": 15421,
+      "attack_rms": 7655.438267329691
+    },
+    {
+      "bank": 378,
+      "note": 71,
+      "frequency_hz": 494.0018332484256,
+      "pitch_error_cents": 0.4154463202115303,
+      "peak": 14644,
+      "attack_rms": 7655.436342030087
+    },
+    {
+      "bank": 379,
+      "note": 72,
+      "frequency_hz": 523.3139207368694,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 17274,
+      "attack_rms": 7655.436742548832
+    },
+    {
+      "bank": 380,
+      "note": 73,
+      "frequency_hz": 554.3320000380269,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 18394,
+      "attack_rms": 7655.43899691041
+    },
+    {
+      "bank": 381,
+      "note": 74,
+      "frequency_hz": 587.259056290515,
+      "pitch_error_cents": -0.20776055177046016,
+      "peak": 20505,
+      "attack_rms": 7655.437002277096
+    },
+    {
+      "bank": 382,
+      "note": 75,
+      "frequency_hz": 622.2166322061152,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 20793,
+      "attack_rms": 7655.440461766118
+    },
+    {
+      "bank": 383,
+      "note": 76,
+      "frequency_hz": 659.5320009735467,
+      "pitch_error_cents": 0.7269656485061533,
+      "peak": 19847,
+      "attack_rms": 7655.434915524613
+    },
+    {
+      "bank": 384,
+      "note": 77,
+      "frequency_hz": 698.3726480904638,
+      "pitch_error_cents": -0.20776055177046016,
+      "peak": 17522,
+      "attack_rms": 7655.433634442544
+    },
+    {
+      "bank": 385,
+      "note": 78,
+      "frequency_hz": 740.2996407383466,
+      "pitch_error_cents": 0.7269656485061533,
+      "peak": 17714,
+      "attack_rms": 7655.43892351488
+    },
+    {
+      "bank": 386,
+      "note": 79,
+      "frequency_hz": 784.0379114158163,
+      "pitch_error_cents": 0.10387092684727198,
+      "peak": 16009,
+      "attack_rms": 7655.436462389816
+    },
+    {
+      "bank": 387,
+      "note": 80,
+      "frequency_hz": 830.9582511058574,
+      "pitch_error_cents": 0.7269656485057691,
+      "peak": 21777,
+      "attack_rms": 7655.437474851073
+    },
+    {
+      "bank": 388,
+      "note": 81,
+      "frequency_hz": 880.0,
+      "pitch_error_cents": 0.0,
+      "peak": 21601,
+      "attack_rms": 7655.439567651118
+    },
+    {
+      "bank": 389,
+      "note": 82,
+      "frequency_hz": 931.9918851278868,
+      "pitch_error_cents": -0.623356468561882,
+      "peak": 21464,
+      "attack_rms": 7655.436795289127
+    },
+    {
+      "bank": 390,
+      "note": 83,
+      "frequency_hz": 986.9368785661379,
+      "pitch_error_cents": -1.4548477228407712,
+      "peak": 21346,
+      "attack_rms": 7655.437187303544
+    },
+    {
+      "bank": 391,
+      "note": 84,
+      "frequency_hz": 1045.1836683532795,
+      "pitch_error_cents": -2.1827303108773264,
+      "peak": 21124,
+      "attack_rms": 7655.439058046138
+    },
+    {
+      "bank": 392,
+      "note": 36,
+      "frequency_hz": 65.18662585029715,
+      "pitch_error_cents": -5.826740820469569,
+      "peak": 22937,
+      "attack_rms": 5026.1287844228755
+    },
+    {
+      "bank": 393,
+      "note": 37,
+      "frequency_hz": 69.09192851045002,
+      "pitch_error_cents": -5.0973248487945,
+      "peak": 22937,
+      "attack_rms": 5025.287006615062
+    },
+    {
+      "bank": 394,
+      "note": 38,
+      "frequency_hz": 73.23999311860143,
+      "pitch_error_cents": -4.159955663735317,
+      "peak": 22937,
+      "attack_rms": 5143.232784304213
+    },
+    {
+      "bank": 395,
+      "note": 39,
+      "frequency_hz": 77.63707188308946,
+      "pitch_error_cents": -3.2230937385240632,
+      "peak": 22937,
+      "attack_rms": 5284.141427432101
+    },
+    {
+      "bank": 396,
+      "note": 40,
+      "frequency_hz": 82.24866800089931,
+      "pitch_error_cents": -3.327164475191755,
+      "peak": 22937,
+      "attack_rms": 5390.644177975548
+    },
+    {
+      "bank": 397,
+      "note": 41,
+      "frequency_hz": 87.16038200104911,
+      "pitch_error_cents": -2.910919059665983,
+      "peak": 22937,
+      "attack_rms": 5487.052995195448
+    },
+    {
+      "bank": 398,
+      "note": 42,
+      "frequency_hz": 92.35985776939174,
+      "pitch_error_cents": -2.598800661737271,
+      "peak": 22937,
+      "attack_rms": 5554.717803578849
+    },
+    {
+      "bank": 399,
+      "note": 43,
+      "frequency_hz": 97.86950050156335,
+      "pitch_error_cents": -2.2867385244479927,
+      "peak": 22937,
+      "attack_rms": 5599.518805460728
+    },
+    {
+      "bank": 400,
+      "note": 44,
+      "frequency_hz": 103.7265012675671,
+      "pitch_error_cents": -1.6627829506834109,
+      "peak": 22937,
+      "attack_rms": 5639.258782808178
+    },
+    {
+      "bank": 401,
+      "note": 45,
+      "frequency_hz": 109.934,
+      "pitch_error_cents": -1.039052176273934,
+      "peak": 22937,
+      "attack_rms": 5782.599027848551
+    },
+    {
+      "bank": 402,
+      "note": 46,
+      "frequency_hz": 116.45703090244922,
+      "pitch_error_cents": -1.2469374667032709,
+      "peak": 22937,
+      "attack_rms": 5816.78079732825
+    },
+    {
+      "bank": 403,
+      "note": 47,
+      "frequency_hz": 123.41155931788029,
+      "pitch_error_cents": -0.8311918455577537,
+      "peak": 22937,
+      "attack_rms": 5817.532017378948
+    },
+    {
+      "bank": 404,
+      "note": 48,
+      "frequency_hz": 130.80493388334028,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 22937,
+      "attack_rms": 5899.199625143369
+    },
+    {
+      "bank": 405,
+      "note": 49,
+      "frequency_hz": 138.57468453057743,
+      "pitch_error_cents": -0.20776055177046016,
+      "peak": 22937,
+      "attack_rms": 5888.57853541144
+    },
+    {
+      "bank": 406,
+      "note": 50,
+      "frequency_hz": 146.7619044144036,
+      "pitch_error_cents": -0.8311918455577537,
+      "peak": 22937,
+      "attack_rms": 5124.794864979963
+    },
+    {
+      "bank": 407,
+      "note": 51,
+      "frequency_hz": 155.56349186104046,
+      "pitch_error_cents": 0.0,
+      "peak": 22937,
+      "attack_rms": 6598.368334024582
+    },
+    {
+      "bank": 408,
+      "note": 52,
+      "frequency_hz": 164.7940008030202,
+      "pitch_error_cents": -0.20776055177026792,
+      "peak": 22937,
+      "attack_rms": 6105.4420602562295
+    },
+    {
+      "bank": 409,
+      "note": 53,
+      "frequency_hz": 174.67697679815987,
+      "pitch_error_cents": 0.6231321006143917,
+      "peak": 22937,
+      "attack_rms": 7170.806858918783
+    },
+    {
+      "bank": 410,
+      "note": 54,
+      "frequency_hz": 185.00831118849854,
+      "pitch_error_cents": 0.10387092684727198,
+      "peak": 22937,
+      "attack_rms": 7485.3976312356535
+    },
+    {
+      "bank": 411,
+      "note": 55,
+      "frequency_hz": 195.92715881239792,
+      "pitch_error_cents": -0.623356468561882,
+      "peak": 22547,
+      "attack_rms": 7655.433561026552
+    },
+    {
+      "bank": 412,
+      "note": 56,
+      "frequency_hz": 207.63988964904516,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 22937,
+      "attack_rms": 7456.707962493681
+    },
+    {
+      "bank": 413,
+      "note": 57,
+      "frequency_hz": 220.0264,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 22937,
+      "attack_rms": 6612.71398732995
+    },
+    {
+      "bank": 414,
+      "note": 58,
+      "frequency_hz": 233.0958656718905,
+      "pitch_error_cents": 0.10387092684727198,
+      "peak": 22558,
+      "attack_rms": 7655.433632959392
+    },
+    {
+      "bank": 415,
+      "note": 59,
+      "frequency_hz": 246.9120176299867,
+      "pitch_error_cents": -0.20776055177046016,
+      "peak": 18722,
+      "attack_rms": 7655.435295612686
+    },
+    {
+      "bank": 416,
+      "note": 60,
+      "frequency_hz": 261.5784726988445,
+      "pitch_error_cents": -0.31165017818970386,
+      "peak": 18160,
+      "attack_rms": 7655.432043157057
+    },
+    {
+      "bank": 417,
+      "note": 61,
+      "frequency_hz": 277.2158928925893,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 15023,
+      "attack_rms": 7655.434265271686
+    },
+    {
+      "bank": 418,
+      "note": 62,
+      "frequency_hz": 293.70000768955765,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 16236,
+      "attack_rms": 7655.434787102777
+    },
+    {
+      "bank": 419,
+      "note": 63,
+      "frequency_hz": 311.16431896012756,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 16877,
+      "attack_rms": 7655.436744276906
+    },
+    {
+      "bank": 420,
+      "note": 64,
+      "frequency_hz": 329.5880016060404,
+      "pitch_error_cents": -0.20776055177026792,
+      "peak": 18965,
+      "attack_rms": 7655.43730766326
+    },
+    {
+      "bank": 421,
+      "note": 65,
+      "frequency_hz": 349.29109251466184,
+      "pitch_error_cents": 0.3115940862056053,
+      "peak": 20840,
+      "attack_rms": 7655.437498316148
+    },
+    {
+      "bank": 422,
+      "note": 66,
+      "frequency_hz": 369.9944227116344,
+      "pitch_error_cents": 0.0,
+      "peak": 18136,
+      "attack_rms": 7655.433578912813
+    },
+    {
+      "bank": 423,
+      "note": 67,
+      "frequency_hz": 391.99543598174927,
+      "pitch_error_cents": 0.0,
+      "peak": 16905,
+      "attack_rms": 7655.432002071035
+    },
+    {
+      "bank": 424,
+      "note": 68,
+      "frequency_hz": 415.2797792980903,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 21535,
+      "attack_rms": 7655.435427987316
+    },
+    {
+      "bank": 425,
+      "note": 69,
+      "frequency_hz": 440.1056,
+      "pitch_error_cents": 0.4154463202115303,
+      "peak": 20762,
+      "attack_rms": 7655.439999295436
+    },
+    {
+      "bank": 426,
+      "note": 70,
+      "frequency_hz": 466.191731343781,
+      "pitch_error_cents": 0.10387092684727198,
+      "peak": 15679,
+      "attack_rms": 7655.433052638989
+    },
+    {
+      "bank": 427,
+      "note": 71,
+      "frequency_hz": 493.8240352599734,
+      "pitch_error_cents": -0.20776055177046016,
+      "peak": 17515,
+      "attack_rms": 7655.439645917905
+    },
+    {
+      "bank": 428,
+      "note": 72,
+      "frequency_hz": 523.0941552620169,
+      "pitch_error_cents": -0.5194481358367906,
+      "peak": 19577,
+      "attack_rms": 7655.4351776409485
+    },
+    {
+      "bank": 429,
+      "note": 73,
+      "frequency_hz": 554.3652619537442,
+      "pitch_error_cents": 0.0,
+      "peak": 21289,
+      "attack_rms": 7655.438962274088
+    },
+    {
+      "bank": 430,
+      "note": 74,
+      "frequency_hz": 587.4000153791153,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 21015,
+      "attack_rms": 7655.4351276560365
+    },
+    {
+      "bank": 431,
+      "note": 75,
+      "frequency_hz": 622.2166322061152,
+      "pitch_error_cents": -0.10387715929005203,
+      "peak": 22242,
+      "attack_rms": 7655.43881817719
+    },
+    {
+      "bank": 432,
+      "note": 76,
+      "frequency_hz": 659.1760032120808,
+      "pitch_error_cents": -0.20776055177026792,
+      "peak": 18350,
+      "attack_rms": 7655.436818012629
+    },
+    {
+      "bank": 433,
+      "note": 77,
+      "frequency_hz": 698.5821850293237,
+      "pitch_error_cents": 0.3115940862056053,
+      "peak": 18679,
+      "attack_rms": 7655.433850792139
+    },
+    {
+      "bank": 434,
+      "note": 78,
+      "frequency_hz": 740.0776440847196,
+      "pitch_error_cents": 0.20773562200016626,
+      "peak": 22937,
+      "attack_rms": 7338.237631414246
+    },
+    {
+      "bank": 435,
+      "note": 79,
+      "frequency_hz": 784.0849508681341,
+      "pitch_error_cents": 0.2077356219997819,
+      "peak": 19246,
+      "attack_rms": 7655.438287073282
+    },
+    {
+      "bank": 436,
+      "note": 80,
+      "frequency_hz": 830.7090682873095,
+      "pitch_error_cents": 0.20773562200016626,
+      "peak": 17448,
+      "attack_rms": 7655.431630616374
+    },
+    {
+      "bank": 437,
+      "note": 81,
+      "frequency_hz": 880.0,
+      "pitch_error_cents": 0.0,
+      "peak": 17420,
+      "attack_rms": 7655.434400483369
+    },
+    {
+      "bank": 438,
+      "note": 82,
+      "frequency_hz": 932.2156437334155,
+      "pitch_error_cents": -0.20776055177046016,
+      "peak": 17403,
+      "attack_rms": 7655.43518400217
+    },
+    {
+      "bank": 439,
+      "note": 83,
+      "frequency_hz": 987.5295385276453,
+      "pitch_error_cents": -0.41554603929562844,
+      "peak": 17411,
+      "attack_rms": 7655.440873612375
+    },
+    {
+      "bank": 440,
+      "note": 84,
+      "frequency_hz": 1046.1255203883616,
+      "pitch_error_cents": -0.623356468561882,
+      "peak": 17407,
+      "attack_rms": 7655.433861630029
+    }
+  ]
+}

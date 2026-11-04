@@ -1,0 +1,28 @@
+{
+  "input": "src/samples/piano_wavetable.mem",
+  "input_sha256": "1c4c40880bd0450d5321beb335b544f2b9c33fe51ecb22ddc6698ded45c34d7c",
+  "logical_words": 25088,
+  "read_latency_clocks": 2,
+  "banks": [
+    {
+      "path": "src/samples/piano_wavetable_0.mem",
+      "words": 8192,
+      "sha256": "0a30b1b0ecc3023f0dabb270b7f39ed019cc4c64b9ce641fb98a9dba68158132"
+    },
+    {
+      "path": "src/samples/piano_wavetable_1.mem",
+      "words": 8192,
+      "sha256": "f62fb63f1a694f131c83019b5f347c17f7e67259a4d82b0bb9caabbfe6a469e8"
+    },
+    {
+      "path": "src/samples/piano_wavetable_2.mem",
+      "words": 8192,
+      "sha256": "8136b1a294eb4e5be40bf224216c3bddac06346663fd8a58687d45a868530ab0"
+    },
+    {
+      "path": "src/samples/piano_wavetable_3.mem",
+      "words": 8192,
+      "sha256": "7190609ea39b0d2904c9170ee11383ae59093316b3577aede4de5f65431530c2"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+历史C7操作记录，仅作来源参考；competition_9_3当前使用单旋钮，操作见使用说明.md。
+
+competition_7同步检查与手机长曲写卡验证（2026-10-19）
+==================================================
+
+一、本轮范围与实际工程位置
+
+用户选择：先完成长曲和SD验证准备，节奏游戏下一步单独合并。
+实际工程在：D:\gowin_projects\competition\competition_7\competition_7\competition_7.gprj
+外层competition_7是交付包，内层competition_7才是Gowin工程目录。
+本轮未改任何生产RTL、引脚CST、时序SDC、GPRJ或build.tcl，未运行Gowin，
+未烧录，未访问或改写实体SD卡。205项交付RTL/资产/构建文件与原manifest一致。
+新增工具、测试和App不属于旧交付51套验证记录，不能混称为这次已重跑51套。
+
+二、相对当前competition_4检查的主要变化
+
+保留并扩展：
+  MIDI通道1、C2..C6、49键、力度分层、双旋钮、波形/李萨如/频谱、蓝牙命令。
+  音色从2种扩成电子琴、电钢琴、吉他、萨克斯4种；86,704,128字节TONES49.BIN。
+  新增/重做音色校准、PCM有效数据等待、/2混音和峰值压缩、流水线和存储诊断。
+  默认音色改成电子琴，可在PCM装载前发声；VOL仍为24，Release默认从4改成0。
+  原单声部曲谱扩为最多4音重叠；自动模式按整首最大复音数预留1..4个声部。
+  本地/录音播放器2048事件；远程上传及远程保存槽1024事件，最多8200字节。
+  新增真实SD CMD24写入、安全双副本远程保存、CRC读回、开机恢复、SAVED SONG。
+  新增16槽MIDI录音、回放/删除/覆盖确认，回放自动采用录制时音色再恢复手动音色。
+  SD写入只使用预分配SAVESLOT/TAKE文件，不创建文件、不分配FAT簇。
+
+没有完整保留、下一步需适配的内容：
+  旧C4的绝对时间轴节奏训练（提前500ms黄、到点绿、Excellent/Good/Miss、SSS..C）。
+  新版GUIDE是等按对再继续的和弦练习，RHY是相邻起音间隔的相对分数，不是同一功能。
+  旧C4的握手/帧边界节奏UI快照没有原样移入；C7使用自己的两级UI同步。
+  C4仅保留两行矩阵、把L18预留给guide_led_data；C7又恢复四行矩阵，L18/L17被占用。
+
+重要：现在不要把LED数据接L18后直接运行C7原码流。C7中L18仍是matrix_row[2]。
+下一步同步LED预留需恢复两行扫描/约束，再重新综合、布线、验时序；不能只改接线。
+C4和C7都还没有真正的49颗智能LED串行驱动；此前C4只是预留安全低电平输出。
+不要用旧C4顶层/播放器覆盖C7，否则会丢四音色、和弦、录音和SD安全保存。
+
+三、本轮已经做好的文件
+
+新App：D:\gowin_projects\app\FPGA_Control_C7_LongScores.aia
+保留源App：D:\gowin_projects\app\FPGA_Control_SongControl.aia（未覆盖）。
+新App保留界面/原BLE扩展，下载校验上限128改1024，传输上限1032改8200。
+MusicScreen新增“上传至FPGA／请求SD保存（不播放）”。
+该按钮只上传，不发送PA/PG。ACK:E后显示“RAM校验完成、SD尚未确认”，
+不会把RAM成功冒充SD成功。当前FPGA协议没有远程SD状态查询，仍以LCD为准。
+
+长曲JSON目录：D:\gowin_projects\output\scores_c7_longtest_20261019
+  Starlight_Walk_Original_LongTest.json
+    标题：星河漫步（原创长曲测试）；ID901；512事件；256450ms=4分16.450秒；
+    单音；PNO负载4104字节；CRC32 C32542DD。
+  Morning_Rondo_Original_LongTest.json
+    标题：晨光回旋（原创长曲测试）；ID902；1024事件；512800ms=8分32.800秒；
+    最多3音重叠；PNO负载8200字节；CRC32 FD08EE65。
+  index.json：两首对应目录，格式仍为fpga-piano-catalog-v1。
+
+这两首为原创完整测试编排，不是《诀别书》或《The Truth That You Leave》的转录，
+没有冒用原曲标题。已找到的原曲网页不是可直接转制并公开上传GitHub的明确授权来源；
+如以后提供有权使用的MIDI/MusicXML，可按此格式转换，但超过1024事件必须明确报错，
+不能为了容量静默截掉后半曲。本地2048容量不代表远程接口也已扩成2048。
+
+时长本身不是固定限制，关键是事件数量、每音时长16位和时间戳32位。
+两首长测试曲均在完整长度下验证，不是用短谱加长空白冒充完整曲目。
+export_app_scores.py已同步1024限制并使用pno_format校验四复音，不再只导出128单音。
+
+四、GitHub部署与手机准备
+
+1. 建议把这三个JSON放到GitHub仓库一个新目录longtest，保留原来的曲库目录。
+   index.json里的文件名、大小写、ID必须与JSON对应。不要把只含两首的新index
+   覆盖原曲库index而误以为旧曲还在目录；若要合并，应追加songs中的两个条目。
+2. MIT App Inventor导入新AIA，确认打开的是FPGA_Control_C7_LongScores。
+   安装后应用名称为FPGA Piano C7，避免点到旧App；新应用数据库可能独立，需重新填曲库地址。
+   从Screen1开始测试；使用现有正确的ESP32桥接程序，不需要改变UART接线。
+   此处只生成AIA，没有替用户运行App Inventor构建服务器或安装APK。
+3. 曲库地址填原始文件目录地址，例如：
+   https://raw.githubusercontent.com/用户名/仓库名/main/longtest/
+   不是github.com/.../tree/...的网页地址。
+4. 刷新曲库，应看到两首原创曲名；下载后“我的曲谱”应保留离线副本。
+   这一步只保存到手机TinyDB，还没有向FPGA或SD发送任何曲谱。
+
+五、确认真实SD持久化的步骤
+
+1. 使用当前已验证的C7码流，确认普通MIDI和原SD曲谱播放正常。
+2. 等待音库/曲谱目录装载完、保存槽状态就绪。音库86.7MB，12.5MHz SPI
+   仅有效数据的理论下限约56秒，实际更久。不要在SD:CHECK时误判写卡失败。
+3. 卡根目录必须已有正确的65536字节SAVESLOT.BIN。已有文件不要覆盖！
+   缺失时才用create_save_slot.py生成新文件或首次复制工厂空槽。
+   不要为了测试格式化卡、覆盖TAKE录音或替换已有SAVESLOT。
+4. 手机连接，进入Music，选第一首，再点“上传至FPGA／请求SD保存（不播放）”。
+   上传会逐4字节等待ACK，可能较慢。进度持续前进时继续等待，不要反复点击。
+5. App提示RAM校验完成后，继续观察FPGA：本次SD:SAVING最终应到SD:SAVED。
+   旧的SD:SAVED可能代表上一首；不能在本次上传还没结束时就据此断电。
+   SD:NO SLOT表示没有可写槽；SD:ERROR表示本次保存没有得到验证。
+6. 保存完成后彻底断电，关闭手机App或断开蓝牙，再重新启动FPGA。
+   S0只是板载发音音高组选键，不是完整断电重启。
+   若之前只下载到FPGA SRAM，断电后需重新配置同一个C7码流，或使用已经
+   能上电自启动的Flash配置；FPGA配置丢失不等于SD中的曲谱丢失。
+7. 等SD检查完成，进入PERFORMANCE -> SAVED SONG，再按K5播放。
+   不连接手机仍能恢复新曲，说明不是靠手机重新上传或只靠上次RAM。
+8. 第一首验证完再上传第二首，重复保存、断电和恢复，检查1024事件长曲。
+
+存储形态必须明确：
+  FPGA保存的是SAVESLOT.BIN里的PNO1负载，不是JSON文件；没有保存歌曲标题。
+  不会自动新增诀别书.json、SONG901.PNO等文件，也不会自动改SONGS.CAT。
+  只有一个“最后远程曲谱”逻辑槽；两份副本用于事务安全/回退，不是两首曲的曲库。
+  第二次成功保存会使第二首成为当前曲；TAKE0001..0016是独立录音槽，不会自动收纳下载曲。
+
+六、电脑只读核验（建议做，证明具体保存的是哪首）
+
+等SD:SAVED且系统空闲后断电取卡，接读卡器，确认真实盘符，把X:替换成它。
+在PowerShell运行下列命令（完整一行）：
+
+& "D:\python3.13\python.exe" "D:\gowin_projects\competition\competition_7\competition_7\tools\inspect_saved_score.py" "X:\SAVESLOT.BIN" --expected "D:\gowin_projects\output\scores_c7_longtest_20261019\Starlight_Walk_Original_LongTest.json"
+
+若最后保存的是第二首，把最后文件名换成Morning_Rondo_Original_LongTest.json。
+工具只读，检查标识、两副本头CRC/负载CRC、代际、PNO格式及全部字节。
+看到MATCH表示最新有效SD负载与该JSON逐字节相同；MISMATCH不是“保存成功”。
+只有文件存在或修改时间变化不能证明保存了这首曲；固定槽写扇区不一定更新目录时间。
+
+七、本轮验证边界
+
+check_project.py：78项工程依赖、81个唯一模块、5首现有PNO通过检查。
+check_competition7_app.py：22项（含原8项）通过，覆盖1024长文件下载/TinyDB、
+上传/不播放、AUTO/GUIDE、0x1000偏移重试、长度超限、原界面/扩展保留、
+完成轮询、断线、避免递归错误、SD双副本只读解析/CRC回退和代际回绕。
+check_long_score_transfer.py：C7实际bluetooth_song_link、score_player、异步保存/恢复
+bridge，完整512/1024事件自动调度全部通过、无丢音符计数，1/3复音峰值正确。
+SD消费端是RAM模型，未运行sd_score_store的FAT/CMD24物理写卡端到端测试。
+泛用HDL整工程语义检查通过；205项交付RTL/构建输入SHA保持。
+没有重新运行Gowin综合/布线、APK构建、真实手机BLE或实体SD掉电测试。
+Icarus的前向引用限制只在临时仿真副本中调整声明顺序，没有改生产源文件。
