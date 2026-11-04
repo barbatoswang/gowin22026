@@ -1,8 +1,0 @@
-{
-  "source_archive": "SRC-023",
-  "archive_entry": "competition/build/songs/SONG001.PNO",
-  "file": "src/songs/SONG001.PNO",
-  "events": 128,
-  "bytes": 1032,
-  "sha256": "888269ebd4ec26bd65a412e838ee5e590b14b8d742dda1f69a7f5b1e8e93bab8"
-}

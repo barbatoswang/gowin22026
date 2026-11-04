@@ -1,6 +1,0 @@
-University of Iowa Musical Instrument Samples / Lawrence Fritts.
-Marimba: Andrew Thierauf, 2013-03-20; engineers Daniel Frantz and Will Huff.
-Source: https://theremin.music.uiowa.edu/Mismarimba.html
-License: https://theremin.music.uiowa.edu/MIS.html
-The official MIS page permits downloads and use for any projects without restrictions.
-Changes: stereo-to-mono, 96kHz to 48kHz, measured onset and pitch identification, integer-harmonic analysis, phase alignment, band limiting and periodic waveform reconstruction. Original recordings are only used offline. Source URLs and SHA256 values: sources.json.
